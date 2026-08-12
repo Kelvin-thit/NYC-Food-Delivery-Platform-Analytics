@@ -1,0 +1,901 @@
+"courier_id","full_name","vehicle_type","home_borough","hired_at"
+COU_000000,Avery Mitchell,scooter,Queens,2025-01-27 00:24:24.000
+COU_000001,Jordan Wilson,car,Queens,2025-01-31 06:12:01.000
+COU_000002,Logan Adams,scooter,Staten Island,2024-11-04 12:39:24.000
+COU_000003,Riley Parker,foot,Brooklyn,2025-02-03 11:21:40.000
+COU_000004,Rowan White,bike,Manhattan,2024-08-05 02:00:05.000
+COU_000005,River Evans,e-bike,Queens,2025-07-21 13:52:23.000
+COU_000006,Sam Nguyen,foot,Brooklyn,2025-05-06 14:53:23.000
+COU_000007,Rowan Thomas,scooter,Brooklyn,2024-11-08 09:06:30.000
+COU_000008,Tatum Walker,car,Queens,2025-08-29 07:31:09.000
+COU_000009,Kendall Perez,car,Queens,2025-09-19 23:50:21.000
+COU_000010,Jules King,scooter,Bronx,2025-09-19 03:31:37.000
+COU_000011,Parker White,foot,Manhattan,2025-09-23 17:12:58.000
+COU_000012,Tatum Thomas,e-bike,Staten Island,2024-12-10 20:02:06.000
+COU_000013,Dana Roberts,foot,Staten Island,2025-01-15 09:54:48.000
+COU_000014,Tatum Nguyen,bike,Brooklyn,2025-08-29 15:04:43.000
+COU_000015,Sage Smith,foot,Brooklyn,2025-03-16 00:00:13.000
+COU_000016,Devon Kim,scooter,Brooklyn,2024-10-02 12:30:30.000
+COU_000017,Arden Adams,scooter,Staten Island,2025-01-11 12:42:21.000
+COU_000018,Taylor Harris,e-bike,Staten Island,2025-07-22 00:24:08.000
+COU_000019,Reese Wright,car,Bronx,2024-11-27 01:41:03.000
+COU_000020,Micah Rodriguez,bike,Brooklyn,2025-07-02 15:34:11.000
+COU_000021,Devon Smith,scooter,Brooklyn,2025-08-16 10:38:33.000
+COU_000022,Sloan Green,bike,Queens,2025-07-16 09:11:49.000
+COU_000023,Micah Jackson,car,Manhattan,2025-05-25 16:19:24.000
+COU_000024,Rowan Lewis,scooter,Brooklyn,2025-08-04 21:29:29.000
+COU_000025,Tatum Lopez,foot,Bronx,2024-12-09 12:45:10.000
+COU_000026,Shawn Perez,foot,Staten Island,2024-12-22 19:39:30.000
+COU_000027,Cameron Lewis,scooter,Staten Island,2025-08-22 19:51:19.000
+COU_000028,Peyton Nguyen,bike,Queens,2024-11-27 17:30:01.000
+COU_000029,Noel Carter,bike,Brooklyn,2025-01-08 15:31:01.000
+COU_000030,Cory Perez,e-bike,Brooklyn,2024-10-19 03:23:06.000
+COU_000031,Elliot Lee,foot,Brooklyn,2024-12-16 20:40:56.000
+COU_000032,River Kim,scooter,Brooklyn,2024-11-21 18:11:07.000
+COU_000033,Rowan Nelson,foot,Brooklyn,2024-08-02 16:22:14.000
+COU_000034,Avery Wright,car,Queens,2025-03-18 22:52:26.000
+COU_000035,Jamie White,e-bike,Manhattan,2025-06-15 17:35:15.000
+COU_000036,River Lewis,bike,Staten Island,2024-10-02 21:25:15.000
+COU_000037,Logan Gonzalez,scooter,Brooklyn,2024-11-21 10:33:11.000
+COU_000038,Jules Green,scooter,Manhattan,2024-10-15 02:44:11.000
+COU_000039,Sloan Gonzalez,scooter,Queens,2025-01-18 08:26:47.000
+COU_000040,Parker Green,foot,Bronx,2024-11-04 18:55:08.000
+COU_000041,Dana Adams,bike,Manhattan,2025-03-14 00:56:46.000
+COU_000042,Quinn Phillips,scooter,Queens,2024-11-06 02:10:49.000
+COU_000043,Skyler Smith,e-bike,Manhattan,2024-08-11 05:57:01.000
+COU_000044,Logan Lee,bike,Manhattan,2025-04-21 15:08:19.000
+COU_000045,Sage Wilson ,car,Queens,2025-05-02 21:46:43.000
+COU_000046,Elliot Walker,bike,Bronx,2025-04-22 13:31:56.000
+COU_000047,Skyler Wilson,bike,Queens,2024-09-13 13:50:07.000
+COU_000048,Reese Evans,e-bike,Manhattan,2024-11-15 05:59:44.000
+COU_000049,Riley Martinez,car,Brooklyn,2025-06-18 21:35:24.000
+COU_000050,Shawn Nelson,foot,Brooklyn,2024-08-15 20:34:36.000
+COU_000051,Sam Hill,scooter,Bronx,2025-08-15 11:54:12.000
+COU_000052,Emery Walker,scooter,Bronx,2025-02-11 00:38:43.000
+COU_000053,Remy Brown,foot,Bronx,2025-07-04 00:55:18.000
+COU_000054,Quinn Wright,e-bike,Brooklyn,2025-09-05 20:17:13.000
+COU_000055,Arden Brown,foot,Manhattan,2024-09-05 19:42:39.000
+COU_000056,Morgan Scott,bike,Bronx,2024-11-09 12:19:49.000
+COU_000057,Sage Smith,car,Brooklyn,2024-09-23 02:29:27.000
+COU_000058,Peyton Lee,car,Staten Island,2025-03-16 04:42:08.000
+COU_000059,Jules Adams,e-bike,Brooklyn,2025-09-14 19:33:51.000
+COU_000060,Taylor Turner,bike,Bronx,2024-11-18 17:41:27.000
+COU_000061,River Carter,foot,Manhattan,2024-10-15 09:22:04.000
+COU_000062,Blake Brown,scooter,Queens,2025-08-23 17:56:43.000
+COU_000063,Phoenix Anderson,e-bike,Brooklyn,2025-02-22 04:58:28.000
+COU_000064,Hayden Rodriguez,foot,Staten Island,2024-09-29 10:10:10.000
+COU_000065,Dana Nguyen,bike,Staten Island,2025-01-06 05:12:19.000
+COU_000066,Sloan Brown,scooter,Staten Island,2024-09-03 20:22:45.000
+COU_000067,Robin Baker,bike,Queens,2024-10-18 12:07:41.000
+COU_000068,Kendall Hill,bike,Staten Island,2024-08-20 19:13:47.000
+COU_000069,Parker Lewis,scooter,Brooklyn,2025-02-25 00:35:10.000
+COU_000070,Cory Clark,foot,Brooklyn,2024-12-07 16:09:54.000
+COU_000071,River Rodriguez,scooter,Manhattan,2024-09-17 17:24:03.000
+COU_000072,Drew Scott,bike,Queens,2025-02-14 04:23:47.000
+COU_000073,Harper Green,car,Brooklyn,2024-12-16 05:21:03.000
+COU_000074,Tatum Jackson,e-bike,Bronx,2025-02-23 13:13:25.000
+COU_000075,Chris Roberts,car,Manhattan,2025-06-24 08:05:25.000
+COU_000076,Sage Harris,scooter,Bronx,2024-10-18 16:04:00.000
+COU_000077,Quinn Lewis,car,Bronx,2025-07-20 20:19:52.000
+COU_000078,Blake Wright,bike,Queens,2025-09-02 17:50:35.000
+COU_000079,Sage Nelson,e-bike,Staten Island,2024-10-26 20:22:55.000
+COU_000080, Devon Lopez ,car,Manhattan,2024-12-13 02:52:32.000
+COU_000081,Emery Perez,e-bike,Brooklyn,2025-08-07 17:40:37.000
+COU_000082,Robin Nguyen,bike,Queens,2025-08-01 02:22:15.000
+COU_000083,Casey White,bike,Brooklyn,2025-09-10 15:02:31.000
+COU_000084,Jules Young,bike,Bronx,2024-08-12 23:31:50.000
+COU_000085,Remy Evans,foot,Brooklyn,2024-11-15 15:24:27.000
+COU_000086,Cameron Rodriguez,e-bike,Brooklyn,2025-09-09 19:06:42.000
+COU_000087, River Campbell,car,Staten Island,2024-08-16 22:31:56.000
+COU_000088,Shawn Adams,e-bike,Manhattan,2025-01-11 10:14:20.000
+COU_000089,Taylor Adams,foot,Staten Island,2025-03-09 19:49:14.000
+COU_000090,Remy Harris,car,Bronx,2025-03-21 12:28:53.000
+COU_000091,Sage Brown,bike,Bronx,2025-09-12 21:29:34.000
+COU_000092,Emery Phillips,scooter,Brooklyn,2024-09-12 15:44:24.000
+COU_000093,Dana Nelson,e-bike,Staten Island,2025-05-12 21:44:03.000
+COU_000094,Alex Carter,foot,Queens,2025-08-26 03:17:53.000
+COU_000095,River Hill,foot,Manhattan,2025-03-14 01:06:34.000
+COU_000096,Rowan Turner,e-bike,Brooklyn,2025-06-29 11:28:56.000
+COU_000097,Jamie Parker,foot,Queens,2024-09-25 21:27:09.000
+COU_000098,Remy Jackson,e-bike,Manhattan,2025-07-22 16:07:56.000
+COU_000099,Avery King,scooter,Brooklyn,2024-12-03 18:34:37.000
+COU_000100,Jules Hill,e-bike,Staten Island,2024-08-04 22:21:55.000
+COU_000101,Elliot Gonzalez,e-bike,Brooklyn,2025-06-26 23:41:02.000
+COU_000102,Casey Clark,e-bike,Staten Island,2025-08-14 22:26:03.000
+COU_000103,Jules Green,car,Staten Island,2025-03-17 13:35:19.000
+COU_000104,Peyton Adams,car,Bronx,2025-09-15 13:05:46.000
+COU_000105,Avery Adams,foot,Bronx,2025-05-06 05:13:57.000
+COU_000106,Cameron Adams,bike,Queens,2024-11-04 02:34:32.000
+COU_000107,Parker Scott,e-bike,Manhattan,2025-06-03 22:19:40.000
+COU_000108,Arden Clark,e-bike,Manhattan,2025-07-07 09:03:58.000
+COU_000109,Rowan Brown,bike,Brooklyn,2025-05-19 14:39:34.000
+COU_000110,Drew Walker,car,Bronx,2025-08-02 06:18:23.000
+COU_000111,Rowan Campbell,e-bike,Brooklyn,2024-09-25 11:19:51.000
+COU_000112,Avery Lopez,car,Manhattan,2025-08-21 02:06:57.000
+COU_000113, Logan Lopez ,foot,Bronx,2024-11-15 07:32:30.000
+COU_000114,Cameron King,bike,Staten Island,2024-11-04 20:05:48.000
+COU_000115,Micah Lewis,bike,Staten Island,2025-04-18 03:21:40.000
+COU_000116,Blake Parker,foot,Queens,2025-02-11 14:54:33.000
+COU_000117,Hayden Rodriguez,car,Queens,2025-01-05 02:50:27.000
+COU_000118,Logan Scott,bike,Bronx,2024-09-28 13:29:41.000
+COU_000119,Jules Wilson,car,Bronx,2024-09-04 21:13:52.000
+COU_000120,Chris Campbell,scooter,Bronx,2025-05-17 22:17:35.000
+COU_000121,River Jackson,foot,Queens,2024-12-07 23:54:26.000
+COU_000122,Cameron Parker,bike,Staten Island,2025-06-05 10:56:10.000
+COU_000123,Tatum Campbell,e-bike,Brooklyn,2024-08-28 05:56:20.000
+COU_000124,Alex Phillips,e-bike,Brooklyn,2025-08-04 17:08:50.000
+COU_000125,Harper Young,e-bike,Bronx,2025-08-30 05:42:56.000
+COU_000126,Jamie Campbell,bike,Manhattan,2025-07-25 09:43:24.000
+COU_000127,Avery Garcia,car,Brooklyn,2025-05-05 02:38:42.000
+COU_000128,Chris Jackson,bike,Bronx,2025-01-25 12:34:49.000
+COU_000129,Reese Thomas,scooter,Staten Island,2024-09-08 19:23:11.000
+COU_000130,Devon Green,car,Staten Island,2025-02-28 03:29:24.000
+COU_000131,Skyler Smith,scooter,Staten Island,2024-10-27 23:15:00.000
+COU_000132,Cory Smith,car,Manhattan,2025-04-27 11:38:27.000
+COU_000133,Dana Wright,scooter,Bronx,2025-08-04 21:11:43.000
+COU_000134,Kendall Mitchell,foot,Queens,2025-02-14 01:03:18.000
+COU_000135,Sam Chen,bike,Queens,2025-04-21 08:42:09.000
+COU_000136,Arden Chen,car,Manhattan,2024-09-22 07:47:28.000
+COU_000137,Jules Perez,e-bike,Bronx,2025-07-26 06:22:04.000
+COU_000138,Elliot Martinez,bike,Staten Island,2025-07-31 09:09:45.000
+COU_000139,Noel Patel,car,Queens,2025-07-13 11:28:16.000
+COU_000140,Phoenix Wright,car,Staten Island,2024-10-26 06:21:26.000
+COU_000141,Micah Hill,scooter,Manhattan,2025-02-05 00:15:26.000
+COU_000142,Drew Thomas,scooter,Queens,2024-08-08 12:15:51.000
+COU_000143,Robin Walker,bike,Staten Island,2025-04-20 08:05:08.000
+COU_000144,Noel Nguyen,bike,Queens,2025-03-29 06:16:18.000
+COU_000145,Parker Perez,scooter,Staten Island,2025-09-07 21:05:04.000
+COU_000146,Tatum Martinez,e-bike,Bronx,2025-07-16 09:27:53.000
+COU_000147,Blake Turner,scooter,Bronx,2024-08-31 06:44:09.000
+COU_000148,Taylor White,bike,Queens,2025-06-15 18:23:10.000
+COU_000149,Alex Turner,scooter,Manhattan,2025-02-12 23:28:10.000
+COU_000150,Cory Carter,e-bike,Staten Island,2025-03-01 12:40:51.000
+COU_000151,Chris Chen,bike,Brooklyn,2024-08-21 22:13:12.000
+COU_000152,Riley Kim,foot,Bronx,2025-01-29 06:02:41.000
+COU_000153,Jules Martinez,car,Bronx,2025-05-14 06:17:43.000
+COU_000154,Drew White,foot,Brooklyn,2025-03-23 21:32:15.000
+COU_000155,Reese Walker,scooter,Queens,2024-09-08 04:25:36.000
+COU_000156,Logan Wright,bike,Queens,2024-10-11 08:57:21.000
+COU_000157,Dana Garcia,scooter,Manhattan,2024-10-04 14:00:45.000
+COU_000158,Sloan Lopez,bike,Bronx,2025-04-25 11:06:36.000
+COU_000159,Tatum King,foot,Bronx,2025-04-23 13:05:10.000
+COU_000160,Casey Anderson,bike,Staten Island,2025-04-04 21:40:18.000
+COU_000161,Avery Young,car,Bronx,2024-09-09 12:30:09.000
+COU_000162,Cory Brown,foot,Bronx,2025-06-13 16:50:06.000
+COU_000163,Reese Adams,bike,Queens,2024-09-22 05:31:41.000
+COU_000164,Taylor Mitchell,scooter,Bronx,2025-06-04 02:00:22.000
+COU_000165,Chris Carter,foot,Queens,2025-02-22 07:16:05.000
+COU_000166,Hayden Parker,scooter,Manhattan,2025-07-06 16:41:44.000
+COU_000167,Drew Perez,scooter,Staten Island,2025-06-19 11:45:43.000
+COU_000168,Sam Young,foot,Bronx,2025-06-30 09:47:38.000
+COU_000169,Drew Green,bike,Brooklyn,2024-10-24 20:23:09.000
+COU_000170,Harper Green,scooter,Staten Island,2025-07-30 19:51:34.000
+COU_000171,Chris Young,foot,Queens,2025-01-17 12:06:07.000
+COU_000172,Sloan Turner,car,Queens,2025-02-16 07:17:29.000
+COU_000173,Emery Smith,car,Bronx,2024-10-27 15:09:00.000
+COU_000174,Rowan Martinez,e-bike,Queens,2025-09-17 02:33:27.000
+COU_000175,Noel Garcia,car,Bronx,2025-04-15 12:36:27.000
+COU_000176,Riley Evans,e-bike,Queens,2025-03-18 09:51:38.000
+COU_000177,Jamie Nelson,e-bike,Manhattan,2025-08-28 07:55:30.000
+COU_000178,Peyton Hill,car,Staten Island,2025-05-28 08:54:48.000
+COU_000179,Noel Clark,foot,Staten Island,2024-11-26 11:56:47.000
+COU_000180,Skyler Wilson,car,Queens,2025-06-14 17:50:33.000
+COU_000181,Casey Turner,foot,Manhattan,2025-06-09 05:08:00.000
+COU_000182,Micah Perez,foot,Staten Island,2024-09-29 07:37:41.000
+COU_000183,Elliot Baker,foot,Manhattan,2024-08-20 00:58:58.000
+COU_000184,Blake Clark,e-bike,Brooklyn,2024-09-27 18:28:28.000
+COU_000185,Reese Chen,scooter,Queens,2024-08-30 04:35:05.000
+COU_000186,Rowan Turner,e-bike,Manhattan,2025-04-23 09:05:41.000
+COU_000187,Harper Patel,scooter,Queens,2025-08-07 01:37:28.000
+COU_000188,Cameron Harris,foot,Queens,2025-07-10 12:29:20.000
+COU_000189,Robin Hill,bike,Bronx,2024-12-21 15:29:47.000
+COU_000190,Jordan Smith,bike,Manhattan,2024-11-13 02:40:58.000
+COU_000191,Harper Young,e-bike,Staten Island,2025-02-18 17:36:13.000
+COU_000192,Cory Carter,scooter,Manhattan,2024-10-09 18:50:24.000
+COU_000193,Sam Phillips,car,Queens,2025-02-19 00:59:05.000
+COU_000194,Avery Lopez,car,Bronx,2024-08-19 07:52:57.000
+COU_000195,Micah Carter,bike,Queens,2025-07-07 17:54:26.000
+COU_000196,Quinn Campbell,car,Queens,2025-06-06 20:56:40.000
+COU_000197,Sage Young,car,Manhattan,2024-12-25 08:14:34.000
+COU_000198,Sloan Turner,bike,Manhattan,2025-01-17 13:40:46.000
+COU_000199,Hayden Rodriguez,scooter,Brooklyn,2025-03-05 12:35:32.000
+COU_000200,Drew Adams,scooter,Queens,2025-06-10 08:32:56.000
+COU_000201,Arden Harris,bike,Staten Island,2025-08-25 15:57:37.000
+COU_000202,Taylor Lewis,car,Staten Island,2025-09-23 16:54:19.000
+COU_000203,Cameron Davis,foot,Queens,2025-05-26 00:57:46.000
+COU_000204,Avery Parker,car,Queens,2025-03-14 07:42:46.000
+COU_000205,Harper Anderson,foot,Manhattan,2025-05-10 20:21:06.000
+COU_000206,Jamie Roberts,car,Brooklyn,2025-04-27 17:25:57.000
+COU_000207,Harper Nguyen,e-bike,Queens,2025-07-02 08:52:56.000
+COU_000208,Taylor Young,car,Bronx,2025-02-16 20:02:37.000
+COU_000209,Noel Harris,foot,Bronx,2025-03-07 21:15:02.000
+COU_000210,Blake Phillips,scooter,Bronx,2025-08-11 01:45:53.000
+COU_000211,Peyton Jackson,foot,Brooklyn,2024-11-22 22:21:56.000
+COU_000212,Parker Lopez,foot,Manhattan,2025-06-28 06:54:57.000
+COU_000213,Rowan Wright,bike,Queens,2025-08-10 04:27:06.000
+COU_000214,Cameron Roberts,foot,Queens,2024-11-06 08:32:02.000
+COU_000215,Reese Roberts,bike,Manhattan,2025-05-31 16:28:35.000
+COU_000216,Skyler Perez,e-bike,Bronx,2025-09-03 17:31:14.000
+COU_000217,Hayden Adams,car,Queens,2025-06-13 12:59:31.000
+COU_000218,Drew Nelson,bike,Bronx,2025-05-14 04:44:30.000
+COU_000219,Shawn Brown,e-bike,Staten Island,2025-04-04 17:24:14.000
+COU_000220,Phoenix Lewis,car,Brooklyn,2024-12-02 20:29:01.000
+COU_000221,Blake King,scooter,Brooklyn,2025-04-24 01:06:59.000
+COU_000222,River White,scooter,Staten Island,2025-02-04 05:25:48.000
+COU_000223,Logan Kim,bike,Brooklyn,2025-09-10 19:48:21.000
+COU_000224,Sage Adams,bike,Staten Island,2024-09-30 04:38:26.000
+COU_000225,Remy Harris,bike,Bronx,2024-11-22 02:58:52.000
+COU_000226,Taylor Wright,e-bike,Staten Island,2024-08-06 06:43:39.000
+COU_000227,Elliot Jackson,bike,Manhattan,2024-09-30 21:18:26.000
+COU_000228,Quinn Lee,bike,Staten Island,2025-07-22 09:28:18.000
+COU_000229,Emery Hill,scooter,Bronx,2025-01-13 18:34:24.000
+COU_000230,Kendall Phillips,scooter,Manhattan,2025-09-24 05:52:42.000
+COU_000231,Dana Nelson,car,Manhattan,2025-01-11 16:06:23.000
+COU_000232,Chris Brown,bike,Bronx,2025-04-05 05:02:57.000
+COU_000233,Parker Patel,e-bike,Staten Island,2024-08-06 02:26:00.000
+COU_000234,Blake Adams,foot,Staten Island,2024-12-31 18:44:27.000
+COU_000235,Chris Martinez,bike,Staten Island,2025-01-11 16:45:47.000
+COU_000236,Cory Baker,foot,Manhattan,2025-04-01 08:27:13.000
+COU_000237,Peyton Turner,scooter,Staten Island,2025-01-13 19:09:11.000
+COU_000238,Blake King,scooter,Manhattan,2024-11-28 03:30:16.000
+COU_000239,Alex Young,foot,Manhattan,2025-08-05 18:24:57.000
+COU_000240,Noel Green,e-bike,Bronx,2025-01-13 03:49:07.000
+COU_000241,Arden Lee,e-bike,Staten Island,2025-05-16 19:49:41.000
+COU_000242,Harper Carter,scooter,Queens,2025-03-26 18:14:31.000
+COU_000243,Jules Parker,foot,Brooklyn,2025-02-10 22:05:02.000
+COU_000244,Jordan Garcia,e-bike,Manhattan,2025-07-12 21:17:48.000
+COU_000245,Elliot Baker,car,Manhattan,2025-06-17 01:48:09.000
+COU_000246,Remy Lewis,car,Manhattan,2024-08-29 17:25:46.000
+COU_000247,Arden Chen,bike,Bronx,2024-11-19 08:36:24.000
+COU_000248,Taylor Thomas,foot,Staten Island,2025-01-31 15:22:06.000
+COU_000249,Harper Scott,foot,Bronx,2024-11-24 07:28:00.000
+COU_000250,Alex Gonzalez,scooter,Staten Island,2025-05-04 11:16:03.000
+COU_000251,Reese Smith,bike,Staten Island,2024-09-28 07:35:54.000
+COU_000252,Peyton Campbell,car,Bronx,2025-02-10 10:59:30.000
+COU_000253,Kendall King,foot,Brooklyn,2025-04-30 03:32:45.000
+COU_000254,Remy Garcia,foot,Bronx,2025-09-14 17:44:03.000
+COU_000255,Rowan Davis,car,Staten Island,2025-03-06 07:24:30.000
+COU_000256,Jamie Green,car,Queens,2025-02-20 07:58:54.000
+COU_000257,Casey Turner,scooter,Brooklyn,2025-08-30 17:51:10.000
+COU_000258,Sage Harris,scooter,Queens,2025-04-28 07:12:05.000
+COU_000259,Alex Adams,foot,Staten Island,2025-05-08 06:50:52.000
+COU_000260,Chris Young,e-bike,Queens,2025-03-03 06:55:20.000
+COU_000261,Peyton Gonzalez,foot,Queens,2025-07-16 07:33:03.000
+COU_000262, Sloan Parker ,e-bike,Bronx,2025-02-08 23:48:41.000
+COU_000263,Shawn Jackson,foot,Queens,2025-03-07 06:40:18.000
+COU_000264,Skyler Garcia,e-bike,Bronx,2025-01-18 13:11:19.000
+COU_000265,Blake Nguyen,foot,Staten Island,2025-04-06 18:58:00.000
+COU_000266,Casey Garcia,foot,Manhattan,2025-01-13 01:22:32.000
+COU_000267,Sam Lee,e-bike,Brooklyn,2025-03-18 22:16:17.000
+COU_000268,Remy Smith,car,Queens,2025-04-08 04:49:44.000
+COU_000269,Micah Smith,bike,Brooklyn,2025-05-22 15:12:06.000
+COU_000270,Quinn Wright,e-bike,Bronx,2024-11-26 02:02:30.000
+COU_000271,River Hill,scooter,Brooklyn,2025-06-20 13:09:24.000
+COU_000272,Alex Baker,car,Bronx,2025-07-07 23:40:24.000
+COU_000273,River Brown,bike,Brooklyn,2025-01-12 12:42:50.000
+COU_000274,Sage Garcia,foot,Staten Island,2025-06-22 15:19:18.000
+COU_000275,Taylor Baker,e-bike,Bronx,2025-09-24 22:33:31.000
+COU_000276,Casey White,e-bike,Staten Island,2025-02-13 03:32:39.000
+COU_000277,Reese Garcia,car,Queens,2024-11-25 14:59:25.000
+COU_000278,Arden Garcia,car,Bronx,2025-02-18 19:17:06.000
+COU_000279,Quinn Wilson,scooter,Brooklyn,2025-09-22 21:39:58.000
+COU_000280,Elliot Campbell,scooter,Bronx,2024-11-04 00:03:41.000
+COU_000281,Sam Young,foot,Bronx,2025-05-11 19:41:14.000
+COU_000282,Remy Garcia,car,Brooklyn,2024-09-24 05:02:03.000
+COU_000283,Jordan Kim,e-bike,Queens,2025-06-19 23:51:31.000
+COU_000284,Avery Baker,foot,Bronx,2024-08-27 03:22:02.000
+COU_000285,Jules Campbell,car,Brooklyn,2025-07-22 14:40:16.000
+COU_000286,Avery Green,bike,Queens,2025-09-04 08:23:11.000
+COU_000287,Taylor Carter,bike,Staten Island,2024-10-17 04:09:23.000
+COU_000288,Kendall Patel,car,Staten Island,2024-08-08 07:03:35.000
+COU_000289,Reese Turner,bike,Staten Island,2024-08-13 17:50:55.000
+COU_000290,Chris Lewis,foot,Manhattan,2025-08-04 13:20:02.000
+COU_000291,Harper Carter,e-bike,Manhattan,2025-05-23 13:35:01.000
+COU_000292,Quinn King,car,Brooklyn,2024-11-29 06:38:57.000
+COU_000293,Logan Rodriguez,e-bike,Queens,2024-08-01 04:49:55.000
+COU_000294,Sage Martinez,foot,Bronx,2024-08-08 14:03:10.000
+COU_000295,Robin Davis,e-bike,Manhattan,2025-03-15 07:05:40.000
+COU_000296,Remy Thomas,car,Brooklyn,2024-08-15 09:48:58.000
+COU_000297,Logan Walker,foot,Brooklyn,2024-09-25 11:57:50.000
+COU_000298,Kendall Perez,foot,Staten Island,2024-10-03 21:45:04.000
+COU_000299,Reese Gonzalez,e-bike,Brooklyn,2025-07-10 08:22:14.000
+COU_000300,Taylor Lopez,scooter,Staten Island,2025-04-27 14:33:35.000
+COU_000301,Avery Harris,e-bike,Queens,2025-06-20 21:33:03.000
+COU_000302,Sloan Adams,e-bike,Manhattan,2024-12-15 23:48:09.000
+COU_000303,Parker Turner,foot,Staten Island,2024-11-07 16:16:52.000
+COU_000304,Remy Lopez,foot,Queens,2024-09-25 19:37:33.000
+COU_000305,Sage Thomas,bike,Manhattan,2024-08-22 08:03:59.000
+COU_000306,Kendall King,e-bike,Brooklyn,2025-02-17 00:51:58.000
+COU_000307,Sloan Wright,bike,Brooklyn,2025-06-07 11:01:17.000
+COU_000308,Shawn Martinez,foot,Queens,2025-07-31 15:31:51.000
+COU_000309,Casey Baker,scooter,Bronx,2024-09-25 16:50:18.000
+COU_000310,Casey Davis,foot,Bronx,2024-09-27 18:42:58.000
+COU_000311,Blake Baker,bike,Manhattan,2024-09-29 15:31:09.000
+COU_000312,Kendall Gonzalez,scooter,Queens,2025-08-15 21:25:39.000
+COU_000313,Blake Lee ,foot,Bronx,2025-05-12 08:29:33.000
+COU_000314,Riley Wright,car,Brooklyn,2025-03-09 03:40:56.000
+COU_000315,Hayden Clark,foot,Manhattan,2025-07-28 07:54:21.000
+COU_000316,Sloan Hill,scooter,Staten Island,2025-01-15 06:58:49.000
+COU_000317,Jordan Baker,bike,Queens,2025-08-30 16:55:46.000
+COU_000318,Harper Carter,car,Brooklyn,2024-09-16 08:49:20.000
+COU_000319,Parker Lewis,car,Bronx,2025-08-02 20:43:15.000
+COU_000320,Casey Roberts,e-bike,Brooklyn,2024-11-04 11:20:00.000
+COU_000321,Harper Lopez,foot,Staten Island,2025-03-04 20:04:51.000
+COU_000322,Drew Campbell,scooter,Brooklyn,2025-02-20 07:34:41.000
+COU_000323,Remy Jackson,scooter,Staten Island,2025-09-21 16:30:21.000
+COU_000324,Cameron Walker,bike,Staten Island,2024-10-14 03:10:44.000
+COU_000325,Noel Garcia,scooter,Bronx,2024-10-11 02:18:10.000
+COU_000326,Rowan Parker,foot,Staten Island,2024-08-21 06:34:24.000
+COU_000327,Robin Parker,car,Queens,2025-08-07 17:02:08.000
+COU_000328,Blake Davis,bike,Staten Island,2024-08-13 10:43:39.000
+COU_000329,Skyler Walker,foot,Brooklyn,2024-10-24 12:44:40.000
+COU_000330,River Young,bike,Staten Island,2024-12-16 11:28:21.000
+COU_000331,Avery Davis,scooter,Bronx,2025-06-30 06:51:21.000
+COU_000332,Jordan Turner,scooter,Bronx,2024-12-24 23:16:21.000
+COU_000333,Harper Perez,bike,Staten Island,2024-08-17 19:51:06.000
+COU_000334,Reese Carter,bike,Staten Island,2025-02-24 21:56:01.000
+COU_000335,Sloan Scott,e-bike,Manhattan,2025-02-12 06:39:32.000
+COU_000336,Emery Thomas,car,Queens,2024-09-02 09:45:30.000
+COU_000337,Morgan Phillips,bike,Bronx,2025-03-13 15:41:09.000
+COU_000338,Sloan Thomas,bike,Manhattan,2024-08-31 00:20:12.000
+COU_000339,Parker Young,scooter,Manhattan,2024-11-12 09:13:48.000
+COU_000340,Emery Phillips,foot,Brooklyn,2024-12-15 08:16:43.000
+COU_000341,Drew Lee,bike,Brooklyn,2025-01-30 07:44:24.000
+COU_000342,River Walker,e-bike,Brooklyn,2025-09-16 01:31:31.000
+COU_000343,Kendall Martinez,bike,Manhattan,2025-01-07 12:36:24.000
+COU_000344,Tatum Smith,e-bike,Bronx,2024-12-25 11:15:10.000
+COU_000345,Sloan Lopez,scooter,Manhattan,2025-05-16 08:07:52.000
+COU_000346,Cameron Nguyen,foot,Staten Island,2025-04-18 23:57:01.000
+COU_000347,Quinn Garcia,scooter,Queens,2025-08-08 10:21:41.000
+COU_000348,Jordan Brown,scooter,Bronx,2025-03-02 11:45:15.000
+COU_000349,Jules Rodriguez,car,Manhattan,2025-02-10 09:45:37.000
+COU_000350,Peyton Wright,car,Brooklyn,2025-09-07 09:57:48.000
+COU_000351,Jules Baker,e-bike,Staten Island,2025-01-26 03:52:12.000
+COU_000352,Avery Chen,car,Queens,2025-03-01 05:21:22.000
+COU_000353,Sam Green,bike,Manhattan,2025-05-03 16:31:05.000
+COU_000354,Taylor Anderson,e-bike,Staten Island,2025-04-23 12:25:14.000
+COU_000355,Jules Anderson,foot,Brooklyn,2025-01-08 02:34:34.000
+COU_000356,Emery Lewis,car,Brooklyn,2025-05-13 01:26:13.000
+COU_000357,Remy White,scooter,Manhattan,2025-06-23 09:36:32.000
+COU_000358,Jordan Lewis,scooter,Manhattan,2025-03-22 14:05:54.000
+COU_000359,Morgan Hill,foot,Queens,2024-08-06 01:51:07.000
+COU_000360,River Phillips,bike,Manhattan,2024-12-15 22:53:55.000
+COU_000361,Harper Scott,foot,Queens,2024-10-18 12:37:21.000
+COU_000362,Micah Patel,foot,Queens,2024-11-11 15:01:40.000
+COU_000363,Remy Phillips,e-bike,Manhattan,2024-09-05 13:18:37.000
+COU_000364,River Adams,foot,Bronx,2025-05-15 01:46:54.000
+COU_000365,Reese Brown,car,Staten Island,2025-06-07 17:53:40.000
+COU_000366,Sam Kim,foot,Manhattan,2024-10-23 17:45:53.000
+COU_000367,Cory Nelson,scooter,Staten Island,2025-06-12 21:25:09.000
+COU_000368,Dana Green,foot,Queens,2025-06-06 05:46:14.000
+COU_000369,Shawn Thomas,car,Brooklyn,2025-08-24 13:00:41.000
+COU_000370,Phoenix Kim,scooter,Staten Island,2024-08-09 08:13:14.000
+COU_000371,Logan Turner,car,Staten Island,2024-11-06 15:14:54.000
+COU_000372,Quinn Baker,bike,Queens,2025-08-14 18:48:50.000
+COU_000373,Noel Roberts,car,Queens,2024-09-20 17:37:09.000
+COU_000374,Tatum Brown,foot,Bronx,2024-09-02 02:44:26.000
+COU_000375,Kendall Campbell,car,Queens,2025-05-03 10:16:25.000
+COU_000376,Taylor Adams,scooter,Queens,2025-09-02 17:04:27.000
+COU_000377,Jules Baker,car,Brooklyn,2024-09-14 16:52:01.000
+COU_000378,Parker Thomas,e-bike,Brooklyn,2025-07-17 04:01:06.000
+COU_000379,Emery Young,scooter,Brooklyn,2024-11-18 07:45:54.000
+COU_000380,Harper King,car,Staten Island,2024-12-25 17:21:50.000
+COU_000381,Cameron Jackson,scooter,Manhattan,2024-12-21 16:14:34.000
+COU_000382,Shawn Patel,bike,Manhattan,2024-12-11 03:43:08.000
+COU_000383,Dana Evans,bike,Brooklyn,2024-12-24 08:08:47.000
+COU_000384,Robin Davis,teleport,Queens,2025-02-23 10:25:30.000
+COU_000385,Jules Garcia,scooter,Manhattan,2025-09-19 19:29:59.000
+COU_000386,Parker Brown,scooter,Bronx,2025-04-27 17:32:47.000
+COU_000387,Peyton White,e-bike,Bronx,2025-06-15 09:25:49.000
+COU_000388,Tatum Clark,foot,Staten Island,2024-11-10 05:54:10.000
+COU_000389,Arden Roberts,e-bike,Queens,2024-11-22 08:43:34.000
+COU_000390,Taylor Rodriguez,car,Brooklyn,2025-01-31 19:32:01.000
+COU_000391,Cameron Green,scooter,Manhattan,2025-08-16 05:02:46.000
+COU_000392,Elliot Chen,jetpack,Staten Island,2025-07-31 16:47:06.000
+COU_000393,River Hill,car,Manhattan,2025-01-09 21:53:05.000
+COU_000394,Shawn Parker,car,Manhattan,2025-05-29 20:26:08.000
+COU_000395,Reese Clark,car,Manhattan,2025-04-15 09:28:59.000
+COU_000396,Dana Brown,scooter,Brooklyn,2025-06-04 19:26:57.000
+COU_000397,Shawn Nguyen,car,Manhattan,2024-09-10 05:58:58.000
+COU_000398,Taylor Patel,foot,Bronx,2024-09-30 07:44:21.000
+COU_000399,Sage Green,foot,Bronx,2024-12-19 10:03:06.000
+COU_000400,reese nguyen,e-bike,Manhattan,2024-08-08 08:24:48.000
+COU_000401,Cameron Rodriguez,car,Manhattan,2025-09-24 19:15:45.000
+COU_000402,Kendall Scott,bike,Staten Island,2025-04-22 13:16:29.000
+COU_000403,Skyler Mitchell,foot,Brooklyn,2025-07-04 10:59:03.000
+COU_000404,Taylor Young,e-bike,Staten Island,2025-07-17 10:19:14.000
+COU_000405,Quinn Lopez,e-bike,Staten Island,2025-09-12 05:23:17.000
+COU_000406,Arden Roberts,bike,Staten Island,2025-03-01 08:45:58.000
+COU_000407,Robin King,scooter,Queens,2025-03-09 03:16:05.000
+COU_000408,Emery Parker,e-bike,Brooklyn,2025-03-29 01:20:53.000
+COU_000409,Noel Patel,bike,Bronx,2025-08-24 19:42:50.000
+COU_000410,Jamie Scott,car,Staten Island,2025-01-17 14:29:08.000
+COU_000411,Taylor Wilson,foot,Staten Island,2024-11-04 15:44:18.000
+COU_000412,Blake Brown,bike,Manhattan,2025-03-28 10:55:39.000
+COU_000413,Cameron Martinez,scooter,Staten Island,2024-10-11 16:52:33.000
+COU_000414,Peyton Evans,bike,Staten Island,2025-03-24 12:38:49.000
+COU_000415,Jordan Patel,bike,Brooklyn,2025-04-20 14:28:18.000
+COU_000416,Peyton Nelson,bike,Bronx,2024-10-13 22:50:17.000
+COU_000417,Elliot Hill,foot,Queens,2025-08-09 06:08:32.000
+COU_000418,Arden Campbell,foot,Brooklyn,2025-04-26 20:57:23.000
+COU_000419, Kendall Parker,car,Bronx,2025-03-15 02:42:51.000
+COU_000420,Cameron Green,bike,Bronx,2025-07-15 02:27:38.000
+COU_000421,Jordan Lopez,e-bike,Staten Island,2025-03-21 18:18:43.000
+COU_000422,Arden Gonzalez,e-bike,Brooklyn,2024-10-28 01:18:44.000
+COU_000423,Elliot Anderson,e-bike,Brooklyn,2025-08-14 11:16:28.000
+COU_000424,Rowan Phillips,foot,Staten Island,2024-12-02 01:17:49.000
+COU_000425,Sam Walker,e-bike,Staten Island,2025-03-24 22:03:06.000
+COU_000426,Emery Lewis,scooter,Staten Island,2024-10-11 17:08:04.000
+COU_000427,Parker Kim,bike,Bronx,2025-03-01 03:33:52.000
+COU_000428,Avery King,car,Brooklyn,2025-08-29 03:19:51.000
+COU_000429,Hayden Martinez,foot,Manhattan,2025-06-23 07:23:32.000
+COU_000430,Logan Lopez,e-bike,Staten Island,2025-04-19 12:53:26.000
+COU_000431,Arden Clark,car,Brooklyn,2025-03-11 14:48:44.000
+COU_000432,Elliot White,foot,Manhattan,2025-04-11 16:26:35.000
+COU_000433,River Anderson,bike,Staten Island,2024-09-13 07:56:31.000
+COU_000434,Blake King,bike,Staten Island,2024-10-12 20:10:04.000
+COU_000435,Devon Mitchell,car,Bronx,2025-03-03 09:20:40.000
+COU_000436,Arden Patel,bike,Queens,2025-09-21 16:55:16.000
+COU_000437,Quinn Young,bike,Brooklyn,2024-12-14 20:58:10.000
+COU_000438,Parker Nguyen,foot,Bronx,2024-09-25 20:21:11.000
+COU_000439,Robin Young,foot,Queens,2025-07-28 09:53:52.000
+COU_000440,Elliot Lee,scooter,Staten Island,2025-09-11 18:56:21.000
+COU_000441,Sage Lee,e-bike,Manhattan,2024-12-05 18:13:25.000
+COU_000442,Blake Martinez,scooter,Staten Island,2024-09-08 13:30:05.000
+COU_000443,Riley Chen,bike,Queens,2024-08-19 05:57:05.000
+COU_000444,Reese Clark,e-bike,Bronx,2024-08-10 12:16:25.000
+COU_000445,Avery Smith,car,Staten Island,2025-09-07 02:17:51.000
+COU_000446,Reese Anderson,scooter,Bronx,2025-05-12 07:05:39.000
+COU_000447,Emery Gonzalez,scooter,Manhattan,2025-04-04 16:26:38.000
+COU_000448,Peyton Gonzalez,e-bike,Queens,2025-09-24 18:28:52.000
+COU_000449,Drew Baker,scooter,Manhattan,2024-10-13 19:53:07.000
+COU_000450,Avery Roberts,foot,Bronx,2024-12-02 10:47:13.000
+COU_000451,Skyler Perez,foot,Brooklyn,2025-08-10 17:44:13.000
+COU_000452,Arden Wilson,e-bike,Queens,2024-09-01 11:51:07.000
+COU_000453,Avery Green,e-bike,Manhattan,2024-09-08 08:03:38.000
+COU_000454,Sloan Parker,car,Staten Island,2024-10-19 15:41:25.000
+COU_000455,Devon Jackson,car,Brooklyn,2024-10-11 05:49:30.000
+COU_000456,Riley Scott,scooter,Bronx,2025-08-13 08:39:50.000
+COU_000457,Robin Hill,bike,Brooklyn,2025-01-06 06:20:11.000
+COU_000458,Riley Harris,bike,Queens,2025-05-13 23:27:04.000
+COU_000459,Reese Perez,bike,Manhattan,2024-11-26 07:32:42.000
+COU_000460,Devon Campbell,foot,Queens,2025-09-06 23:12:45.000
+COU_000461,Shawn Rodriguez,foot,Staten Island,2025-03-01 11:38:26.000
+COU_000462,Rowan Young,bike,Bronx,2024-11-17 20:50:44.000
+COU_000463,Riley Brown,e-bike,Manhattan,2025-03-15 09:58:56.000
+COU_000464,Remy Scott,bike,Manhattan,2024-10-28 15:44:40.000
+COU_000465,Devon Brown,bike,Queens,2024-10-30 09:25:52.000
+COU_000466,Drew Young,scooter,Manhattan,2024-10-15 07:40:28.000
+COU_000467,Tatum Green,e-bike,Manhattan,2025-06-24 17:19:57.000
+COU_000468,Tatum Phillips,foot,Queens,2025-02-28 10:06:21.000
+COU_000469,Devon Anderson,scooter,Queens,2024-08-15 20:59:31.000
+COU_000470,Peyton Baker,e-bike,Manhattan,2025-07-21 10:31:58.000
+COU_000471,Shawn Wilson,e-bike,Brooklyn,2025-01-30 21:27:47.000
+COU_000472,Skyler Clark,car,Brooklyn,2025-06-06 23:49:48.000
+COU_000473,Blake Parker,car,Bronx,2025-06-13 09:55:36.000
+COU_000474,Cory Perez,scooter,Manhattan,2024-09-09 19:31:53.000
+COU_000475,Casey Lopez,car,Staten Island,2025-02-17 08:40:53.000
+COU_000476,Parker Harris,foot,Staten Island,2024-12-21 13:50:41.000
+COU_000477,Taylor Hill,foot,Queens,2025-03-01 15:27:04.000
+COU_000478,Emery King,foot,Brooklyn,2024-08-31 05:15:42.000
+COU_000479,Noel Roberts,e-bike,Queens,2024-12-25 14:08:15.000
+COU_000480,Tatum Kim,car,Bronx,2025-03-28 06:02:21.000
+COU_000481,Arden Gonzalez,car,Bronx,2025-09-18 17:08:39.000
+COU_000482,Devon Nelson,scooter,Queens,2025-03-07 08:21:06.000
+COU_000483,Micah Carter,e-bike,Manhattan,2024-08-27 03:20:22.000
+COU_000484,River Davis,scooter,Bronx,2024-12-09 02:38:36.000
+COU_000485,Logan Kim,scooter,Brooklyn,2025-06-17 14:13:13.000
+COU_000486,Robin Gonzalez,bike,Bronx,2025-03-08 22:20:05.000
+COU_000487,Quinn Adams,bike,Brooklyn,2025-02-12 07:28:36.000
+COU_000488,Blake Lee,scooter,Queens,2024-10-27 11:47:35.000
+COU_000489,Skyler King,jetpack,Manhattan,2024-11-19 06:02:06.000
+COU_000490,Jules Anderson,e-bike,Manhattan,2025-01-22 22:24:53.000
+COU_000491,Jamie Kim,e-bike,Queens,2025-03-07 08:09:26.000
+COU_000492,Taylor Gonzalez,bike,Staten Island,2025-08-01 23:13:14.000
+COU_000493,Rowan Rodriguez,car,Bronx,2025-02-11 15:14:19.000
+COU_000494,Skyler Patel,scooter,Queens,2024-09-11 11:31:10.000
+COU_000495,Cory Campbell,hover,Staten Island,2025-09-11 18:24:42.000
+COU_000496,Quinn Wright,foot,Brooklyn,2025-07-03 21:45:27.000
+COU_000497,Quinn Evans,e-bike,Brooklyn,2025-03-28 00:48:36.000
+COU_000498,Cory Martinez,foot,Bronx,2025-06-08 01:40:50.000
+COU_000499,Chris Campbell,foot,Bronx,2025-02-10 09:12:43.000
+COU_000500,Jordan Lopez,scooter,Bronx,2025-07-16 20:37:43.000
+COU_000501,Jules Hill,car,Staten Island,2025-01-05 10:43:35.000
+COU_000502,Jordan Nelson,bike,Brooklyn,2024-11-22 03:42:15.000
+COU_000503,Shawn Hill,e-bike,Queens,2025-04-23 18:50:26.000
+COU_000504,Rowan Lewis,e-bike,Brooklyn,2025-01-07 08:47:17.000
+COU_000505,Peyton Lewis,e-bike,Manhattan,2024-09-13 07:22:07.000
+COU_000506,Elliot Brown,e-bike,Staten Island,2024-11-03 21:42:53.000
+COU_000507,Kendall Hill,scooter,Staten Island,2025-03-16 00:01:57.000
+COU_000508,Rowan Scott,car,Bronx,2024-08-28 02:02:43.000
+COU_000509,Arden Walker,e-bike,Brooklyn,2025-07-14 10:01:27.000
+COU_000510,Avery Adams,scooter,Manhattan,2025-08-11 12:40:20.000
+COU_000511,Cameron Jackson,bike,Manhattan,2025-09-21 11:23:00.000
+COU_000512,Casey Mitchell,foot,Brooklyn,2025-07-02 14:01:29.000
+COU_000513,Sam Perez,bike,Staten Island,2024-09-30 09:19:23.000
+COU_000514,Dana Anderson,car,Staten Island,2025-06-12 22:38:56.000
+COU_000515,Skyler Thomas,scooter,Staten Island,2025-09-04 07:36:54.000
+COU_000516,River Clark,scooter,Bronx,2024-12-08 13:55:45.000
+COU_000517,Kendall Lewis,foot,Queens,2025-05-26 04:10:05.000
+COU_000518,Peyton Lewis,foot,Staten Island,2024-11-12 09:47:18.000
+COU_000519,River Hill,e-bike,Queens,2024-12-01 17:03:41.000
+COU_000520,Tatum Garcia,e-bike,Bronx,2024-12-17 12:44:24.000
+COU_000521,Jordan Anderson,e-bike,Bronx,2025-09-05 19:50:32.000
+COU_000522,Sloan Garcia,bike,Bronx,2025-06-26 02:57:00.000
+COU_000523,Noel Campbell,scooter,Brooklyn,2025-03-27 03:25:08.000
+COU_000524,Riley King,bike,Queens,2025-05-05 08:45:45.000
+COU_000525,Parker Kim,scooter,Queens,2024-12-02 14:18:39.000
+COU_000526,Noel Chen,bike,Brooklyn,2025-02-16 06:44:40.000
+COU_000527,Reese Nelson,foot,Brooklyn,2025-03-23 13:25:01.000
+COU_000528,Rowan Garcia,scooter,Brooklyn,2024-12-01 20:34:44.000
+COU_000529,Cory Thomas,scooter,Manhattan,2024-10-08 09:36:31.000
+COU_000530,Morgan Davis,e-bike,Bronx,2025-08-16 05:28:02.000
+COU_000531,Devon Jackson,bike,Staten Island,2025-07-02 01:04:21.000
+COU_000532,Emery Thomas,e-bike,Manhattan,2025-08-03 22:23:10.000
+COU_000533,Casey Nelson,scooter,Brooklyn,2024-12-28 21:36:25.000
+COU_000534,River Harris,foot,Brooklyn,2024-11-07 20:57:10.000
+COU_000535,Riley Hill,e-bike,Bronx,2025-01-20 04:30:04.000
+COU_000536,Cameron Phillips,foot,Brooklyn,2025-01-01 06:15:08.000
+COU_000537,Harper Harris,bike,Brooklyn,2025-09-06 18:43:01.000
+COU_000538,Jules King,scooter,Brooklyn,2025-08-23 21:16:59.000
+COU_000539,Shawn Smith,e-bike,Queens,2025-05-29 00:23:27.000
+COU_000540,Jordan Lewis,bike,Brooklyn,2025-07-08 16:47:08.000
+COU_000541,Drew Nguyen,foot,Manhattan,2024-08-19 07:56:43.000
+COU_000542,Casey Lewis,foot,Staten Island,2025-02-09 06:46:00.000
+COU_000543,Logan Gonzalez,car,Manhattan,2025-08-22 12:54:20.000
+COU_000544,Avery Carter,scooter,Manhattan,2025-01-17 05:37:29.000
+COU_000545,Sage Scott,car,Bronx,2024-12-18 22:54:47.000
+COU_000546,Jules Lopez,e-bike,Brooklyn,2025-07-27 14:59:52.000
+COU_000547,Casey Phillips,foot,Manhattan,2024-08-26 08:17:01.000
+COU_000548,Remy Turner,scooter,Staten Island,2024-11-11 10:52:27.000
+COU_000549,Devon Roberts,foot,Bronx,2025-02-23 16:55:13.000
+COU_000550,Taylor King,car,Staten Island,2025-02-02 21:11:47.000
+COU_000551,Rowan Parker,car,Queens,2025-03-03 11:45:14.000
+COU_000552,Sloan Campbell,bike,Brooklyn,2025-03-07 21:15:05.000
+COU_000553,Kendall Lopez,foot,Staten Island,2025-07-11 21:21:33.000
+COU_000554,Devon Garcia,bike,Bronx,2025-08-16 20:54:00.000
+COU_000555,Riley Harris,e-bike,Queens,2024-09-23 00:11:57.000
+COU_000556,Sage Turner,e-bike,Bronx,2024-09-24 09:47:30.000
+COU_000557,Peyton Wright,car,Queens,2024-11-16 17:46:41.000
+COU_000558,Shawn Gonzalez,e-bike,Queens,2025-08-08 22:43:48.000
+COU_000559,Alex Kim,foot,Manhattan,2024-08-05 02:01:41.000
+COU_000560,Parker Walker,e-bike,Bronx,2025-04-28 12:26:04.000
+COU_000561,Tatum Nguyen,bike,Queens,2025-07-24 17:19:57.000
+COU_000562,Elliot Chen,car,Manhattan,2025-05-28 19:58:07.000
+COU_000563,Drew King,car,Queens,2024-09-08 04:21:45.000
+COU_000564,Shawn Parker,foot,Staten Island,2025-02-13 21:40:22.000
+COU_000565,Harper Roberts,car,Brooklyn,2024-09-19 21:11:08.000
+COU_000566,Logan Rodriguez,scooter,Bronx,2024-08-28 11:14:01.000
+COU_000567,Arden Green,foot,Bronx,2024-11-15 16:55:21.000
+COU_000568,Phoenix Baker,e-bike,Brooklyn,2024-10-13 03:17:41.000
+COU_000569,Phoenix Rodriguez,e-bike,Brooklyn,2024-11-15 16:20:18.000
+COU_000570,Phoenix Scott,e-bike,Bronx,2024-09-24 13:23:45.000
+COU_000571,Emery Kim,bike,Queens,2025-08-12 22:51:44.000
+COU_000572,Jordan Baker,bike,Staten Island,2025-02-13 02:57:22.000
+COU_000573,Emery Phillips,bike,Bronx,2024-08-21 11:34:04.000
+COU_000574,Micah Perez,e-bike,Brooklyn,2024-11-18 21:19:27.000
+COU_000575,Riley Wright,car,Brooklyn,2024-11-23 02:08:07.000
+COU_000576,Sage Thomas,bike,Staten Island,2024-11-07 14:49:13.000
+COU_000577,Alex Hill,foot,Manhattan,2025-01-09 04:35:53.000
+COU_000578,Devon Baker,car,Brooklyn,2025-02-04 09:34:45.000
+COU_000579,River Martinez,e-bike,Queens,2025-09-22 13:22:46.000
+COU_000580,Sloan Campbell,bike,Manhattan,2024-09-19 06:11:04.000
+COU_000581,Robin Phillips,foot,Manhattan,2024-10-28 07:55:31.000
+COU_000582,Cameron Anderson,bike,Bronx,2024-08-07 18:37:10.000
+COU_000583,Sloan Gonzalez,foot,Brooklyn,2024-08-01 13:45:27.000
+COU_000584,Rowan Chen,e-bike,Brooklyn,2025-01-19 22:57:29.000
+COU_000585,Peyton Mitchell,car,Queens,2024-09-16 03:30:45.000
+COU_000586,Peyton Walker,bike,Brooklyn,2025-01-31 17:58:34.000
+COU_000587,Jordan Clark,bike,Manhattan,2025-04-12 10:48:35.000
+COU_000588,Casey Nelson,e-bike,Manhattan,2025-04-01 04:31:27.000
+COU_000589,Sage Nelson,e-bike,Manhattan,2025-07-18 20:59:44.000
+COU_000590,Alex Walker,car,Brooklyn,2025-05-07 19:21:26.000
+COU_000591,Riley Clark,car,Bronx,2025-04-02 16:51:45.000
+COU_000592,River Evans,e-bike,Manhattan,2025-06-14 05:44:55.000
+COU_000593,Elliot Turner,bike,Manhattan,2025-09-17 05:00:39.000
+COU_000594,Logan Lopez,e-bike,Manhattan,2025-01-02 04:38:11.000
+COU_000595,Remy Davis,e-bike,Queens,2024-08-12 14:07:52.000
+COU_000596,Hayden Harris,scooter,Manhattan,2025-03-30 15:20:37.000
+COU_000597,Robin Chen,bike,Brooklyn,2025-09-02 09:49:49.000
+COU_000598,Tatum Scott,e-bike,Queens,2025-03-18 12:57:37.000
+COU_000599,Noel Jackson,car,Manhattan,2024-08-28 13:51:14.000
+COU_000600,Rowan Anderson,scooter,Staten Island,2024-08-14 02:32:40.000
+COU_000601,Sloan Rodriguez,scooter,Brooklyn,2025-03-10 18:59:57.000
+COU_000602,Hayden Perez,car,Brooklyn,2024-10-10 10:00:05.000
+COU_000603,Cameron Wright,foot,Brooklyn,2025-09-22 23:30:20.000
+COU_000604,Shawn Mitchell,e-bike,Manhattan,2025-02-25 04:15:05.000
+COU_000605,Harper King,foot,Queens,2025-06-01 09:21:52.000
+COU_000606,Sam Scott,e-bike,Queens,2025-06-13 15:26:38.000
+COU_000607,Blake Rodriguez,car,Manhattan,2024-09-27 08:34:14.000
+COU_000608,Remy Thomas,foot,Bronx,2024-08-31 02:53:23.000
+COU_000609,Jordan Lopez,scooter,Staten Island,2024-10-02 20:56:21.000
+COU_000610,Emery Brown,scooter,Queens,2025-05-26 00:16:43.000
+COU_000611,Arden Campbell,e-bike,Staten Island,2025-01-24 03:00:53.000
+COU_000612,Phoenix King,foot,Queens,2025-06-21 14:11:46.000
+COU_000613,Elliot Thomas,car,Queens,2025-08-15 00:50:26.000
+COU_000614,Tatum Baker,foot,Bronx,2025-03-20 21:17:25.000
+COU_000615,Tatum Martinez,scooter,Staten Island,2025-05-27 11:48:18.000
+COU_000616,Micah Nelson,scooter,Bronx,2024-11-26 15:47:16.000
+COU_000617,Kendall Brown,foot,Staten Island,2025-04-15 06:22:38.000
+COU_000618,Shawn Harris,car,Queens,2024-12-05 10:02:13.000
+COU_000619,Quinn Walker,e-bike,Staten Island,2024-10-10 06:02:01.000
+COU_000620,Emery Green,foot,Bronx,2025-08-29 00:48:54.000
+COU_000621,Noel Young,car,Staten Island,2025-06-18 04:09:45.000
+COU_000622,Hayden Anderson,bike,Queens,2024-09-07 17:46:31.000
+COU_000623,Elliot Rodriguez,scooter,Manhattan,2024-08-25 11:43:15.000
+COU_000624,Taylor Hill,foot,Manhattan,2024-09-27 03:16:06.000
+COU_000625,River Green,car,Bronx,2025-07-11 02:07:08.000
+COU_000626,Quinn Anderson,foot,Brooklyn,2025-06-22 09:49:11.000
+COU_000627,Jamie Phillips,foot,Bronx,2025-06-01 14:30:22.000
+COU_000628,Jamie Patel,e-bike,Queens,2025-03-12 22:08:26.000
+COU_000629,Alex Parker,car,Staten Island,2025-02-28 04:04:05.000
+COU_000630,Avery King ,car,Manhattan,2024-08-20 23:10:35.000
+COU_000631,Harper Parker,e-bike,Brooklyn,2024-11-08 01:30:38.000
+COU_000632, River Campbell ,car,Queens,2024-10-11 08:24:27.000
+COU_000633,Jordan Nguyen,bike,Staten Island,2024-12-16 16:20:54.000
+COU_000634,Jules Rodriguez,scooter,Bronx,2025-01-01 07:58:45.000
+COU_000635,Jordan Rodriguez,car,Queens,2024-08-08 12:44:39.000
+COU_000636,Devon Harris,e-bike,Queens,2025-02-26 05:57:52.000
+COU_000637,Riley White,e-bike,Staten Island,2024-10-20 20:07:56.000
+COU_000638,Quinn Young,car,Staten Island,2025-04-14 06:46:00.000
+COU_000639,Parker Rodriguez,scooter,Brooklyn,2025-03-03 05:03:52.000
+COU_000640,Micah Garcia,scooter,Manhattan,2025-02-14 23:00:50.000
+COU_000641,Tatum Young,e-bike,Manhattan,2024-10-24 23:23:00.000
+COU_000642,Sage Perez,foot,Manhattan,2024-10-16 16:10:43.000
+COU_000643,Cameron Jackson,foot,Brooklyn,2025-09-22 06:23:16.000
+COU_000644,Peyton Lee,scooter,Bronx,2025-09-06 23:13:26.000
+COU_000645,Tatum Green,e-bike,Brooklyn,2025-04-09 19:06:06.000
+COU_000646,Hayden Wright,car,Bronx,2024-09-25 09:30:25.000
+COU_000647,Devon King,e-bike,Bronx,2025-05-01 04:46:09.000
+COU_000648,Drew Chen,car,Queens,2024-09-01 20:49:27.000
+COU_000649,Dana Lewis,car,Queens,2024-12-02 14:16:39.000
+COU_000650,Chris Hill,foot,Staten Island,2025-03-27 11:02:33.000
+COU_000651,Avery Nguyen,foot,Staten Island,2024-11-26 05:36:53.000
+COU_000652,Jordan Green,car,Manhattan,2024-08-09 15:11:42.000
+COU_000653,Jamie Martinez,car,Staten Island,2025-03-07 06:19:10.000
+COU_000654,Jamie Nelson,foot,Brooklyn,2025-06-14 16:32:33.000
+COU_000655,Kendall Harris,foot,Manhattan,2025-03-12 17:30:38.000
+COU_000656,Elliot White,e-bike,Queens,2025-03-08 03:16:55.000
+COU_000657,Emery Davis,bike,Queens,2025-04-13 20:46:16.000
+COU_000658,Cameron Clark,scooter,Staten Island,2025-09-05 17:01:00.000
+COU_000659,Emery Carter,bike,Queens,2025-05-29 18:19:32.000
+COU_000660,Micah Smith,car,Staten Island,2025-08-21 18:39:14.000
+COU_000661,Skyler Wilson,e-bike,Manhattan,2025-04-04 07:33:33.000
+COU_000662,Kendall Green,scooter,Brooklyn,2025-03-20 10:08:25.000
+COU_000663,Sage Carter,bike,Brooklyn,2025-08-25 02:52:04.000
+COU_000664,Cory Young,foot,Staten Island,2025-01-30 21:39:37.000
+COU_000665,Chris Thomas,scooter,Bronx,2025-04-20 07:16:16.000
+COU_000666,Quinn Jackson,car,Brooklyn,2025-05-15 05:04:13.000
+COU_000667,Noel Phillips,bike,Queens,2024-10-27 09:20:45.000
+COU_000668,Emery Harris,scooter,Bronx,2024-11-07 19:48:03.000
+COU_000669,Jamie Davis,bike,Manhattan,2024-11-19 14:11:46.000
+COU_000670,Chris Kim,car,Queens,2025-06-19 10:47:19.000
+COU_000671,Chris Adams,car,Staten Island,2024-11-03 21:59:49.000
+COU_000672,Elliot Jackson,car,Staten Island,2025-01-31 01:52:52.000
+COU_000673,Dana Lewis,scooter,Queens,2025-09-13 06:45:46.000
+COU_000674,Elliot Kim,scooter,Manhattan,2024-08-13 10:08:55.000
+COU_000675,Arden Kim,bike,Queens,2024-10-12 13:58:50.000
+COU_000676,Logan Jackson,foot,Bronx,2025-08-13 07:23:38.000
+COU_000677,Harper Thomas,scooter,Queens,2025-04-03 04:35:27.000
+COU_000678,Cory Thomas,foot,Manhattan,2025-06-21 16:27:09.000
+COU_000679,Parker Adams,scooter,Brooklyn,2024-08-19 03:43:26.000
+COU_000680,Shawn Smith,e-bike,Staten Island,2024-11-14 09:37:47.000
+COU_000681,Micah Lopez,bike,Brooklyn,2025-06-07 10:54:49.000
+COU_000682,Harper Phillips,scooter,Brooklyn,2024-12-11 07:06:43.000
+COU_000683,Kendall Anderson,scooter,Brooklyn,2025-02-24 20:22:24.000
+COU_000684,Sam Mitchell,e-bike,Staten Island,2025-07-11 06:33:48.000
+COU_000685,Elliot Evans,scooter,Staten Island,2025-07-03 16:31:46.000
+COU_000686,Cory Clark,bike,Staten Island,2025-09-14 09:46:29.000
+COU_000687,Sam Carter,scooter,Brooklyn,2025-01-21 10:21:47.000
+COU_000688,Avery Chen,e-bike,Brooklyn,2024-09-03 22:29:39.000
+COU_000689,Dana Evans,foot,Brooklyn,2024-08-01 22:15:48.000
+COU_000690,Jordan Young,bike,Bronx,2025-07-31 12:59:26.000
+COU_000691,Rowan Walker,scooter,Manhattan,2025-01-19 20:44:59.000
+COU_000692,Alex Wilson,foot,Manhattan,2025-04-08 12:37:34.000
+COU_000693,Noel Scott,car,Manhattan,2024-09-05 23:02:27.000
+COU_000694,Skyler Martinez,e-bike,Manhattan,2025-07-14 03:37:39.000
+COU_000695,Casey Smith,e-bike,Staten Island,2025-04-22 17:23:37.000
+COU_000696,Tatum Carter,e-bike,Queens,2024-11-03 23:57:21.000
+COU_000697,Sam Roberts,car,Queens,2025-08-30 01:02:39.000
+COU_000698,Sam King,bike,Bronx,2025-06-22 09:12:21.000
+COU_000699,Noel Kim,foot,Brooklyn,2024-12-23 15:16:29.000
+COU_000700,Jules Scott,car,Queens,2025-05-29 21:37:09.000
+COU_000701,Morgan Brown,foot,Manhattan,2025-09-08 22:37:17.000
+COU_000702,Jamie Chen,car,Staten Island,2025-07-26 14:26:39.000
+COU_000703,Arden Clark,foot,Manhattan,2024-09-15 03:19:21.000
+COU_000704,Riley Davis,bike,Staten Island,2025-04-17 07:21:38.000
+COU_000705,Taylor King,bike,Queens,2024-09-15 21:28:10.000
+COU_000706,Elliot Anderson,scooter,Queens,2024-09-29 18:35:14.000
+COU_000707,Blake Garcia,scooter,Queens,2025-02-21 06:23:00.000
+COU_000708,Devon Wilson,foot,Brooklyn,2024-10-04 07:03:25.000
+COU_000709,Morgan Jackson,car,Bronx,2024-10-23 17:49:32.000
+COU_000710,Alex Harris,foot,Brooklyn,2025-01-19 10:41:04.000
+COU_000711,Sam Lee,foot,Manhattan,2025-09-09 17:39:28.000
+COU_000712,Jordan Nguyen,car,Staten Island,2025-04-21 18:13:13.000
+COU_000713,Devon Lee,bike,Queens,2025-04-21 00:00:12.000
+COU_000714,Logan Walker,car,Manhattan,2024-08-09 17:04:01.000
+COU_000715,Cameron Roberts,car,Manhattan,2025-05-23 00:22:24.000
+COU_000716,Shawn Baker,scooter,Manhattan,2025-08-30 04:26:45.000
+COU_000717,Dana Campbell,bike,Bronx,2024-09-28 00:18:55.000
+COU_000718,Harper Parker,scooter,Brooklyn,2025-01-25 10:13:14.000
+COU_000719,Drew Lewis,scooter,Queens,2024-10-31 05:27:51.000
+COU_000720,Arden Martinez,bike,Manhattan,2024-09-01 09:07:28.000
+COU_000721,Elliot Smith,bike,Staten Island,2025-01-17 10:41:49.000
+COU_000722,Sam Hill,foot,Staten Island,2025-07-19 12:43:59.000
+COU_000723,Logan Green,e-bike,Bronx,2025-06-07 07:35:27.000
+COU_000724,Remy Gonzalez,car,Manhattan,2024-09-07 07:44:42.000
+COU_000725,Quinn Thomas,bike,Queens,2025-04-08 08:30:05.000
+COU_000726,Rowan Wilson,car,Queens,2024-10-22 16:45:44.000
+COU_000727,Parker Scott,scooter,Brooklyn,2025-07-10 07:16:14.000
+COU_000728,Harper Kim,foot,Brooklyn,2025-09-21 10:15:21.000
+COU_000729,Rowan Wright,scooter,Staten Island,2025-04-17 18:29:55.000
+COU_000730,Micah Nelson,foot,Bronx,2024-12-10 10:13:18.000
+COU_000731,Blake Lewis,car,Bronx,2025-05-26 17:03:12.000
+COU_000732,Elliot Thomas,bike,Manhattan,2025-03-04 18:10:34.000
+COU_000733,Remy King,bike,Queens,2024-10-11 01:39:44.000
+COU_000734,Quinn Anderson,scooter,Brooklyn,2025-07-11 01:02:39.000
+COU_000735,Quinn Garcia,car,Queens,2024-12-20 19:47:15.000
+COU_000736,Blake Chen,bike,Bronx,2025-08-10 14:05:33.000
+COU_000737,Chris Jackson,foot,Bronx,2025-05-15 04:22:56.000
+COU_000738,Cory Lee,foot,Brooklyn,2024-09-05 07:33:38.000
+COU_000739,Casey White,e-bike,Staten Island,2025-03-19 10:04:01.000
+COU_000740,Reese Brown,bike,Brooklyn,2024-08-13 07:54:28.000
+COU_000741,Riley Wilson,foot,Queens,2025-03-31 00:42:26.000
+COU_000742,Avery Green,bike,Brooklyn,2024-10-23 03:02:31.000
+COU_000743,River Lopez,foot,Queens,2025-09-15 18:23:02.000
+COU_000744,Sam Wright,scooter,Manhattan,2025-03-10 22:28:03.000
+COU_000745,Robin Garcia,car,Queens,2025-05-13 16:56:49.000
+COU_000746,Rowan Turner,bike,Bronx,2025-04-02 08:14:03.000
+COU_000747,Emery White,foot,Queens,2025-09-24 20:25:19.000
+COU_000748,Taylor Rodriguez,foot,Bronx,2024-12-01 16:48:17.000
+COU_000749,Blake Davis,car,Staten Island,2025-03-20 18:07:27.000
+COU_000750,Dana Adams,e-bike,Manhattan,2025-08-19 02:08:35.000
+COU_000751,Quinn Harris,scooter,Bronx,2025-01-30 04:50:01.000
+COU_000752,Reese White,scooter,Brooklyn,2025-04-14 21:30:45.000
+COU_000753,Harper Parker,e-bike,Manhattan,2025-06-02 10:01:10.000
+COU_000754,Avery Patel,foot,Staten Island,2025-03-20 00:02:52.000
+COU_000755,Sage Nguyen,foot,Bronx,2025-08-02 15:49:08.000
+COU_000756,Sage Gonzalez,car,Staten Island,2025-08-03 19:35:31.000
+COU_000757,Morgan Parker,e-bike,Staten Island,2024-11-08 19:03:54.000
+COU_000758,Devon Gonzalez,bike,Brooklyn,2025-03-06 07:33:14.000
+COU_000759,Hayden Lewis ,foot,Staten Island,2024-08-01 04:58:54.000
+COU_000760,Arden Adams,bike,Bronx,2025-04-12 13:54:25.000
+COU_000761,Jules Mitchell,scooter,Brooklyn,2024-11-20 21:11:03.000
+COU_000762,Rowan Perez,car,Queens,2025-01-12 23:57:25.000
+COU_000763,Chris Wright,foot,Manhattan,2024-11-20 01:47:35.000
+COU_000764, Rowan Garcia ,foot,Queens,2024-08-08 13:24:56.000
+COU_000765,Riley Garcia,e-bike,Bronx,2025-02-10 10:15:03.000
+COU_000766,Hayden Phillips,scooter,Brooklyn,2025-06-02 04:34:40.000
+COU_000767,Sage King,scooter,Manhattan,2025-05-04 00:53:49.000
+COU_000768,Phoenix Turner,scooter,Queens,2025-07-04 11:44:18.000
+COU_000769,Remy Lopez,car,Brooklyn,2024-11-05 23:43:27.000
+COU_000770,Shawn Gonzalez,car,Bronx,2024-10-19 02:12:45.000
+COU_000771,Shawn Hill,foot,Staten Island,2025-01-26 08:27:22.000
+COU_000772,Avery Davis,e-bike,Queens,2025-05-29 14:06:18.000
+COU_000773,Jamie Nguyen,foot,Queens,2025-03-27 14:20:11.000
+COU_000774,Parker Campbell,e-bike,Queens,2024-09-28 22:19:47.000
+COU_000775,Sam Lewis,bike,Manhattan,2025-06-19 02:08:50.000
+COU_000776,Sloan Patel,car,Brooklyn,2025-06-05 23:10:25.000
+COU_000777,Devon Adams,car,Queens,2025-01-03 13:04:06.000
+COU_000778,Quinn Lewis,scooter,Manhattan,2025-04-25 04:51:37.000
+COU_000779,Jules Parker,e-bike,Staten Island,2025-03-29 16:27:32.000
+COU_000780,Noel Hill,e-bike,Staten Island,2025-04-28 07:05:00.000
+COU_000781,Parker Adams,foot,Bronx,2024-11-04 09:24:16.000
+COU_000782,Drew Nelson,e-bike,Bronx,2025-07-11 06:16:01.000
+COU_000783,Micah Harris,e-bike,Bronx,2025-04-20 14:13:28.000
+COU_000784,Drew Davis,scooter,Manhattan,2024-11-22 04:46:03.000
+COU_000785,Taylor Nguyen,scooter,Manhattan,2025-03-29 04:51:55.000
+COU_000786,Cory Gonzalez,foot,Staten Island,2024-10-13 03:44:38.000
+COU_000787,Morgan Brown,foot,Staten Island,2025-07-25 18:44:21.000
+COU_000788, Jules Smith,foot,Queens,2024-12-25 08:18:54.000
+COU_000789,Shawn Wright,bike,Queens,2024-09-08 03:46:52.000
+COU_000790,Cameron Baker,scooter,Brooklyn,2025-06-03 17:33:07.000
+COU_000791,Alex Young,e-bike,Staten Island,2025-02-04 14:09:40.000
+COU_000792,Robin Carter,foot,Queens,2025-05-02 00:14:51.000
+COU_000793,Reese White,e-bike,Bronx,2025-02-08 07:48:10.000
+COU_000794,Cameron Harris,e-bike,Manhattan,2025-04-10 18:21:46.000
+COU_000795,Jordan Evans,bike,Manhattan,2024-12-14 18:05:43.000
+COU_000796, Dana Harris,e-bike,Brooklyn,2024-10-15 06:43:14.000
+COU_000797,Peyton Martinez,foot,Staten Island,2025-03-12 06:12:08.000
+COU_000798,River Parker,scooter,Brooklyn,2025-05-03 04:38:24.000
+COU_000799,Sage Green,bike,Staten Island,2025-09-22 04:36:13.000
+COU_000800,Phoenix Davis,scooter,Brooklyn,2024-10-27 19:29:55.000
+COU_000801,Drew Lopez,scooter,Manhattan,2024-11-28 16:38:24.000
+COU_000802,Jules Lewis,scooter,Manhattan,2024-08-02 21:03:36.000
+COU_000803,Avery Carter,e-bike,Bronx,2025-04-03 08:55:01.000
+COU_000804,Sam Phillips,foot,Staten Island,2024-09-30 03:33:25.000
+COU_000805,Cory Young,scooter,Brooklyn,2025-02-10 10:23:39.000
+COU_000806,Sloan White,scooter,Brooklyn,2025-06-02 00:17:01.000
+COU_000807,Skyler Parker,scooter,Bronx,2025-04-06 11:10:27.000
+COU_000808,Skyler Nelson,car,Queens,2025-08-11 11:40:44.000
+COU_000809,Tatum Martinez,bike,Brooklyn,2025-08-19 02:35:03.000
+COU_000810,Cory Gonzalez,scooter,Queens,2025-03-14 02:18:08.000
+COU_000811,Harper Wilson,e-bike,Brooklyn,2024-12-18 18:31:08.000
+COU_000812,Arden Lee,e-bike,Bronx,2024-10-07 04:40:09.000
+COU_000813,River Thomas,scooter,Bronx,2025-03-30 22:28:41.000
+COU_000814,Rowan Nguyen,foot,Bronx,2024-11-06 18:02:57.000
+COU_000815,Peyton Phillips,bike,Manhattan,2025-07-10 22:28:39.000
+COU_000816,Arden Rodriguez,foot,Manhattan,2025-01-30 01:15:59.000
+COU_000817,Quinn Walker,foot,Queens,2024-10-10 06:10:48.000
+COU_000818,Arden Rodriguez,e-bike,Bronx,2025-07-24 04:35:18.000
+COU_000819,Morgan Garcia,foot,Bronx,2025-08-14 01:10:32.000
+COU_000820,Elliot Anderson,bike,Brooklyn,2025-08-11 01:38:43.000
+COU_000821,Riley Wilson,foot,Staten Island,2025-01-03 09:43:33.000
+COU_000822,Arden Campbell,e-bike,Brooklyn,2025-06-12 22:37:59.000
+COU_000823,River Thomas,foot,Bronx,2025-04-05 04:04:31.000
+COU_000824,Cameron Young,scooter,Bronx,2024-08-11 13:31:59.000
+COU_000825,Taylor Wright,bike,Manhattan,2025-03-13 19:12:08.000
+COU_000826,Casey Campbell,e-bike,Bronx,2024-10-29 01:59:19.000
+COU_000827,Robin Young,scooter,Queens,2024-08-15 22:24:19.000
+COU_000828,Drew Turner,scooter,Bronx,2025-07-03 06:50:47.000
+COU_000829,Cameron Roberts,car,Staten Island,2024-11-29 13:22:53.000
+COU_000830,Drew Wilson,bike,Bronx,2025-07-20 09:07:27.000
+COU_000831,Remy Patel,scooter,Bronx,2024-08-07 09:53:57.000
+COU_000832,Sam Parker,scooter,Manhattan,2025-01-20 11:04:11.000
+COU_000833,Noel Walker,foot,Brooklyn,2024-08-28 06:38:29.000
+COU_000834,Casey Perez,scooter,Staten Island,2025-08-07 01:05:29.000
+COU_000835,Logan Nelson,scooter,Staten Island,2025-06-16 17:17:42.000
+COU_000836,Logan Kim,car,Bronx,2025-04-14 21:43:37.000
+COU_000837,Noel Young,scooter,Manhattan,2024-10-04 08:47:49.000
+COU_000838,Dana Campbell,car,Staten Island,2025-04-22 18:06:13.000
+COU_000839,Peyton Kim,foot,Manhattan,2025-07-17 13:13:12.000
+COU_000840,Blake Carter,scooter,Queens,2025-05-05 06:46:17.000
+COU_000841,Avery Baker,foot,Brooklyn,2025-02-24 14:02:39.000
+COU_000842,Skyler Lee,car,Bronx,2025-01-19 04:41:25.000
+COU_000843,Micah Lopez,e-bike,Staten Island,2024-08-05 14:30:48.000
+COU_000844,Jules Hill,car,Brooklyn,2025-03-22 11:11:25.000
+COU_000845,Sage Harris,e-bike,Bronx,2025-02-25 12:29:46.000
+COU_000846,Quinn Gonzalez,car,Brooklyn,2025-06-28 01:40:34.000
+COU_000847,Skyler Harris,scooter,Bronx,2024-11-07 15:38:05.000
+COU_000848,Robin Evans,foot,Bronx,2024-10-03 19:04:29.000
+COU_000849,Morgan Smith,car,Queens,2025-06-28 05:15:20.000
+COU_000850,Micah Harris,foot,Queens,2025-01-12 12:40:34.000
+COU_000851,Robin Gonzalez,foot,Bronx,2025-02-06 11:19:26.000
+COU_000852,Taylor Rodriguez,bike,Manhattan,2025-04-30 18:21:32.000
+COU_000853,Robin Campbell,car,Brooklyn,2025-03-15 16:56:25.000
+COU_000854,Kendall Campbell,bike,Brooklyn,2025-07-02 19:15:33.000
+COU_000855,Cameron Walker,scooter,Manhattan,2025-05-01 22:59:12.000
+COU_000856,Blake Nelson,e-bike,Manhattan,2025-02-08 15:22:04.000
+COU_000857,Sam Perez,car,Brooklyn,2024-10-13 17:00:39.000
+COU_000858,Morgan Mitchell,bike,Staten Island,2025-04-02 14:25:21.000
+COU_000859,Jamie Campbell,foot,Queens,2025-01-21 17:10:03.000
+COU_000860,Chris Chen,car,Brooklyn,2025-06-26 16:30:39.000
+COU_000861,Phoenix Nguyen,e-bike,Staten Island,2025-09-21 23:54:21.000
+COU_000862,Elliot Roberts,foot,Staten Island,2025-04-10 02:59:45.000
+COU_000863,Micah Smith,bike,Manhattan,2024-10-14 13:08:44.000
+COU_000864,Peyton Wright,foot,Brooklyn,2025-01-16 17:35:57.000
+COU_000865,Cory Garcia,e-bike,Brooklyn,2025-06-18 21:14:24.000
+COU_000866,Peyton Martinez,scooter,Bronx,2025-03-14 16:02:47.000
+COU_000867,Rowan Gonzalez,bike,Queens,2025-04-27 10:50:05.000
+COU_000868,Emery Carter,car,Queens,2024-08-02 06:24:33.000
+COU_000869,Phoenix Phillips,scooter,Queens,2025-02-28 22:55:20.000
+COU_000870,Jordan Lewis,e-bike,Brooklyn,2025-04-18 23:26:43.000
+COU_000871,Chris Perez,bike,Staten Island,2025-01-03 10:00:43.000
+COU_000872,Alex Young,scooter,Manhattan,2024-10-16 05:47:17.000
+COU_000873,Harper Martinez,foot,Bronx,2024-12-02 13:09:43.000
+COU_000874,Logan Campbell,foot,Brooklyn,2024-09-12 13:04:09.000
+COU_000875,Jordan Wilson,e-bike,Staten Island,2025-06-23 21:01:12.000
+COU_000876,Remy Green,bike,Queens,2024-11-13 06:42:21.000
+COU_000877,Sam Smith,foot,Staten Island,2025-02-26 09:29:17.000
+COU_000878,Casey Brown,foot,Queens,2025-07-10 22:13:41.000
+COU_000879,Emery Clark,foot,Queens,2024-08-03 19:18:57.000
+COU_000880,Logan Nguyen,car,Queens,2025-08-29 23:20:40.000
+COU_000881,Arden Nguyen,bike,Manhattan,2025-07-30 21:13:27.000
+COU_000882,Jules Adams,scooter,Manhattan,2025-05-22 11:46:20.000
+COU_000883,Blake Nguyen,bike,Staten Island,2025-09-20 04:42:53.000
+COU_000884,Dana Turner,foot,Staten Island,2024-12-01 08:07:44.000
+COU_000885,Drew Harris ,foot,Manhattan,2024-10-11 20:15:12.000
+COU_000886,Kendall Mitchell,foot,Manhattan,2025-01-29 06:36:31.000
+COU_000887,Jamie Rodriguez,scooter,Staten Island,2024-12-17 16:01:45.000
+COU_000888,Phoenix Anderson,bike,Manhattan,2025-06-21 14:48:32.000
+COU_000889,Micah Lewis,bike,Manhattan,2025-05-03 18:51:40.000
+COU_000890,River Lewis,bike,Queens,2024-09-10 16:50:14.000
+COU_000891,Sam Carter,foot,Brooklyn,2025-03-14 12:32:35.000
+COU_000892,Rowan Lee,car,Manhattan,2024-08-11 05:27:57.000
+COU_000893,Taylor Brown,e-bike,Queens,2025-07-26 09:57:36.000
+COU_000894,Micah Thomas,bike,Manhattan,2024-12-09 12:40:10.000
+COU_000895,Morgan Anderson,car,Queens,2025-05-18 05:35:48.000
+COU_000896,Harper Patel,foot,Manhattan,2024-08-01 03:10:48.000
+COU_000897,Drew Phillips,bike,Bronx,2025-08-20 11:50:31.000
+COU_000898,Peyton Carter,foot,Brooklyn,2025-01-08 05:32:41.000
+COU_000899,Jordan Nguyen,bike,Brooklyn,2025-09-15 14:35:54.000

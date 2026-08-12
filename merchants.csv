@@ -1,0 +1,61 @@
+"merchant_id","name","category","city","borough","created_at"
+MER_000000,Orion Delivery Kitchen Spot Upper East Side 01,delivery kitchen,Qns,Queens,2025-06-11 17:32:36.000
+MER_000001,Orion Delivery Kitchen Hub Upper East Side 02,delivery kitchen,brooklyn,Brooklyn,2025-06-11 11:57:43.000
+MER_000002,Orion Restaurant Hub Park Slope 03,restaurant,NYC,Manhattan,2025-01-03 12:48:25.000
+MER_000003,Orion Virtual Kitchen Express Long Island City 04,virtual kitchen,brooklyn,Brooklyn,2024-08-17 07:02:32.000
+MER_000004,Orion Restaurant House Williamsburg 05,restaurant,BRONX,Bronx,2024-12-21 07:11:10.000
+MER_000005,Orion Delivery Kitchen Spot Upper West Side 06,delivery kitchen,Staten Island,Staten Island,2024-11-17 18:34:35.000
+MER_000006,Orion Restaurant Kitchen Upper West Side 07,restaurant,Brooklyn,Brooklyn,2025-07-25 19:00:14.000
+MER_000007,Orion Virtual Kitchen Hub Upper West Side 08,virtual kitchen,Queens ,Queens,2024-07-02 02:48:57.000
+MER_000008,Orion Delivery Kitchen Grill Upper West Side 09,delivery kitchen,Bronx,Bronx,2025-08-06 00:14:43.000
+MER_000009,Orion Delivery Kitchen Corner Astoria 10,delivery kitchen,New York,Manhattan,2025-02-11 21:42:23.000
+MER_000010,Orion Virtual Kitchen Kitchen Downtown 11,virtual kitchen,bronx,Bronx,2025-08-08 12:10:53.000
+MER_000011,Orion Restaurant Hub Long Island City 12,restaurant,StatenIsland,Staten Island,2024-12-03 01:04:25.000
+MER_000012,Orion Restaurant House Chelsea 13,restaurant, New York ,Manhattan,2024-11-03 17:59:58.000
+MER_000013,Orion Restaurant Spot Flushing 14,restaurant, New York ,Manhattan,2025-02-13 15:17:55.000
+MER_000014,Orion Virtual Kitchen Place Downtown 15,virtual kitchen,Manhattan,Manhattan,2025-01-22 05:19:08.000
+MER_000015,Orion Delivery Kitchen Spot Upper East Side 16,delivery kitchen,BRONX,Bronx,2025-08-01 01:54:14.000
+MER_000016,Orion Delivery Kitchen Grill Flushing 17,delivery kitchen, Bronx,Bronx,2025-07-05 00:28:01.000
+MER_000017,Orion Restaurant Spot Upper West Side 18,restaurant,staten island,Staten Island,2025-07-03 02:45:17.000
+MER_000018,Orion Delivery Kitchen House Midtown 19,delivery kitchen, Bronx,Bronx,2024-11-29 23:33:55.000
+MER_000019,Orion Restaurant Express Upper East Side 20,restaurant,Bklyn,Brooklyn,2024-07-09 02:10:59.000
+MER_000020,Orion Virtual Kitchen Cafe Upper East Side 21,virtual kitchen,New York,Manhattan,2025-03-02 10:29:15.000
+MER_000021,Orion Restaurant Hub Chelsea 22,restaurant,Brooklyn,Brooklyn,2025-08-10 12:36:00.000
+MER_000022,Orion Delivery Kitchen Corner SoHo 23,delivery kitchen, Bronx,Bronx,2024-11-21 20:09:41.000
+MER_000023,Orion Delivery Kitchen Hub Upper East Side 24,delivery kitchen,Brooklyn,Brooklyn,2024-09-21 23:36:11.000
+MER_000024,Orion Virtual Kitchen Grill Chelsea 25,virtual kitchen,STATEN ISLAND,Staten Island,2024-08-01 15:30:06.000
+MER_000025,Orion Delivery Kitchen Corner Park Slope 26,delivery kitchen,Qns,Queens,2025-08-25 00:07:52.000
+MER_000026,Orion Delivery Kitchen Grill Upper West Side 27,delivery kitchen,Bklyn,Brooklyn,2024-10-15 01:38:41.000
+MER_000027,Orion Restaurant Cafe Park Slope 28,restaurant,Bklyn,Brooklyn,2024-11-22 09:18:31.000
+MER_000028,Orion Delivery Kitchen Express Upper West Side 29,delivery kitchen,Queens ,Queens,2025-02-21 03:26:09.000
+MER_000029,Orion Virtual Kitchen Place Williamsburg 30 ,virtual kitchen,STATEN ISLAND,Staten Island,2024-07-11 16:20:21.000
+MER_000030,Orion Delivery Kitchen Kitchen Astoria 31,delivery kitchen,New York,Manhattan,2025-01-01 02:48:04.000
+MER_000031,Orion Restaurant Grill Chelsea 32,restaurant,StatenIsland,Staten Island,2024-08-06 09:32:08.000
+MER_000032,orion delivery kitchen place williamsburg 33,delivery kitchen,StatenIsland,Staten Island,2025-03-09 07:38:55.000
+MER_000033,Orion Restaurant Grill SoHo 34,restaurant,NYC,Manhattan,2025-03-06 21:10:37.000
+MER_000034,Orion Virtual Kitchen Express Park Slope 35,virtual kitchen,Manhattan,Manhattan,2025-06-02 16:16:14.000
+MER_000035,Orion Delivery Kitchen Corner Astoria 36,delivery kitchen,BROOKLYN,Brooklyn,2025-07-20 11:02:52.000
+MER_000036,Orion Virtual Kitchen Cafe Harlem 37,virtual kitchen,NYC,Manhattan,2024-10-05 15:29:59.000
+MER_000037,Orion Restaurant Grill Downtown 38,restaurant, New York ,Manhattan,2025-04-11 18:28:11.000
+MER_000038,Orion Virtual Kitchen Cafe Astoria 39,virtual kitchen,StatenIsland,Staten Island,2025-08-10 00:28:30.000
+MER_000039,Orion Virtual Kitchen Grill Upper West Side 40,virtual kitchen,Brooklyn,Brooklyn,2025-04-15 10:12:52.000
+MER_000040,Orion Restaurant Kitchen SoHo 41,restaurant,Qns,Queens,2024-07-12 21:02:46.000
+MER_000041,Orion Virtual Kitchen Grill Midtown 42,virtual kitchen,queens,Queens,2025-07-27 00:55:46.000
+MER_000042,Orion Virtual Kitchen House Upper West Side 43,virtual kitchen,bronx,Bronx,2024-12-29 05:58:23.000
+MER_000043,Orion Virtual Kitchen Hub Williamsburg 44,virtual kitchen,staten island,Staten Island,2025-02-09 22:02:10.000
+MER_000044,Orion Virtual Kitchen House Upper East Side 45,virtual kitchen,QUEENS,Queens,2025-04-18 09:40:12.000
+MER_000045,Orion Virtual Kitchen Kitchen Chelsea 46,virtual kitchen,Staten Island,Staten Island,2025-07-28 04:31:13.000
+MER_000046,Orion Restaurant Express Harlem 47,restaurant,queens,Queens,2024-08-27 15:01:56.000
+MER_000047,Orion Delivery Kitchen Grill Upper West Side 48 ,delivery kitchen,StatenIsland,Staten Island,2025-05-08 14:13:37.000
+MER_000048,Orion Virtual Kitchen Grill Park Slope 49,virtual kitchen,bronx,Bronx,2025-06-05 03:47:13.000
+MER_000049,Orion Restaurant Grill Midtown 50,restaurant,staten island,Staten Island,2024-08-13 03:13:35.000
+MER_000050,Orion Virtual Kitchen Corner Harlem 51,virtual kitchen,queens,Queens,2024-09-03 14:20:19.000
+MER_000051,Orion Delivery Kitchen Kitchen Long Island City 52,delivery kitchen,BRONX,Bronx,2024-12-22 12:47:51.000
+MER_000052,Orion Restaurant Hub Long Island City 53,restaurant,New York,Manhattan,2024-09-29 16:06:30.000
+MER_000053,Orion Delivery Kitchen Grill Midtown 54,delivery kitchen,STATEN ISLAND,Staten Island,2025-05-17 11:46:10.000
+MER_000054,Orion Restaurant Kitchen SoHo 55,restaurant,brooklyn,Brooklyn,2024-11-15 15:01:33.000
+MER_000055,Orion Restaurant Express Chelsea 56,restaurant, Bronx,Bronx,2025-02-16 23:45:32.000
+MER_000056,Orion Delivery Kitchen Cafe Midtown 57,delivery kitchen,Brooklyn,Brooklyn,2025-02-15 04:23:29.000
+MER_000057,Orion Delivery Kitchen Cafe Park Slope 58,delivery kitchen,bronx,Bronx,2024-11-19 07:58:50.000
+MER_000058,Orion Virtual Kitchen Spot Midtown 59,virtual kitchen,Staten Island,Staten Island,2025-03-10 21:37:33.000
+MER_000059,Orion Restaurant Hub Upper East Side 60,restaurant,Brooklyn,Brooklyn,2025-03-28 19:47:16.000

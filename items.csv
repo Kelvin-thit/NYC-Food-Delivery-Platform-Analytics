@@ -1,0 +1,40 @@
+"item_id","item_name","item_category","base_price"
+ITM_00001,Cheese Pizza,pizza,10.99
+ITM_00002,Pepperoni Pizza,pizza,12.49
+ITM_00003,Veggie Bowl,restaurant staples,11.49
+ITM_00004,Sushi Roll,japanese,9.99
+ITM_00005,Chicken Biryani,indian,13.49
+ITM_00006,Taco Plate,mexican,10.49
+ITM_00007,Burger,comfort food,9.49
+ITM_00008,Salad,mediterranean,8.99
+ITM_00009,Curry,indian,12.99
+ITM_00010,Ramen,asian specialties,11.99
+ITM_00011,Falafel Wrap,mediterranean,8.49
+ITM_00012,Pad Thai,asian specialties,12.49
+ITM_00013,Donut,dessert bakery,1.99
+ITM_00014,Latte,cafe beverage,4.49
+ITM_00015,Cold Brew,cafe beverage,3.99
+ITM_00016,Bagel,cafe beverage,2.49
+ITM_00017,Bibimbap,asian specialties,13.99
+ITM_00018,Poke Bowl,japanese,14.49
+ITM_00019,Gyoza,japanese,6.99
+ITM_00020,Noodle Box,asian specialties,10.99
+ITM_00021,Chicken Tenders,comfort food,8.99
+ITM_00022,Mac and Cheese,comfort food,7.99
+ITM_00023,Fish and Chips,comfort food,13.99
+ITM_00024,Miso Soup,japanese,3.49
+ITM_00025,Greek Salad,mediterranean,9.99
+ITM_00026,Kebab Plate,mediterranean,14.99
+ITM_00027,Shawarma Wrap,mediterranean,9.99
+ITM_00028,Tiramisu,dessert bakery,5.99
+ITM_00029,Churros,mexican,4.49
+ITM_00030,Quesadilla,mexican,8.49
+ITM_00031,Banh Mi,asian specialties,8.99
+ITM_00032,Pho,asian specialties,12.99
+ITM_00033,Baklava,dessert bakery,3.99
+ITM_00034,Spanakopita,restaurant staples,4.99
+ITM_00035,Hummus Plate,mediterranean,6.99
+ITM_00036,Acai Bowl,cafe beverage,9.49
+ITM_00037,Smoothie,cafe beverage,6.49
+ITM_00038,Scone,dessert bakery,2.99
+ITM_00039,Croissant,dessert bakery,3.49
