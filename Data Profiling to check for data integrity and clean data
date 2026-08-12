@@ -1,0 +1,198 @@
+-- ============================================================
+-- PROFILING: customers JOIN orders
+-- Goal: Understand the data quality across customers and orders
+-- Simple two-table join only
+-- ============================================================
+
+
+-- ------------------------------------------------------------
+-- PROFILE 1: BASIC JOIN — See all customer and order info together
+-- One row per order, with the customer details attached
+-- Use this as a quick spot check of the combined data
+-- ------------------------------------------------------------
+
+SELECT
+    c.customer_id,        -- unique customer ID
+    c.first_name,         -- customer first name
+    c.last_name,          -- customer last name
+    c.email,              -- raw email
+    c.phone_number,       -- raw phone number
+    c.city,               -- raw city (dirty)
+    o.order_id,           -- unique order ID
+    o.order_ts,           -- when the order was placed
+    o.channel,            -- how the order was placed (mobile_app, web, etc.)
+    o.payment_method,     -- how the customer paid
+    o.subtotal            -- order subtotal before tax/tip/fees
+
+FROM customers c
+
+-- INNER JOIN: only returns rows where the customer_id exists in BOTH tables
+-- customers with no orders and orders with no matching customer are excluded
+INNER JOIN orders o
+    ON c.customer_id = o.customer_id
+
+LIMIT 50;                 -- limit to 50 rows for a quick spot check
+
+
+-- ------------------------------------------------------------
+-- PROFILE 2: COUNT ORDERS PER CUSTOMER
+-- Shows how many orders each customer has placed
+-- Helps spot highly active customers vs one-time buyers
+-- ------------------------------------------------------------
+
+SELECT
+    c.customer_id,            -- unique customer ID
+    c.first_name,             -- customer first name
+    c.last_name,              -- customer last name
+    c.city,                   -- raw city value
+
+    -- COUNT the number of orders linked to this customer
+    COUNT(o.order_id)         AS total_orders,
+
+    -- SUM the subtotal across all their orders
+    ROUND(SUM(o.subtotal)::NUMERIC, 2) AS total_spent
+
+FROM customers c
+INNER JOIN orders o
+    ON c.customer_id = o.customer_id
+
+-- GROUP BY customer so we get one row per customer
+GROUP BY
+    c.customer_id,
+    c.first_name,
+    c.last_name,
+    c.city
+
+-- Show the most active customers first
+ORDER BY total_orders DESC
+
+LIMIT 50;
+
+-- ------------------------------------------------------------
+-- PROFILE 3: DIRTY DATA CHECK ACROSS THE JOIN
+-- Counts all known dirty values in customers
+-- while also counting how many orders they are linked to
+-- Shows the impact of dirty data on real orders
+-- ------------------------------------------------------------
+
+SELECT
+    -- Total rows in the joined result (one row per order)
+    COUNT(*)                                                AS total_order_rows,
+
+    -- Total unique customers who have placed at least one order
+    COUNT(DISTINCT c.customer_id)                          AS unique_customers,
+
+    -- How many orders belong to customers with a dirty phone number
+    COUNT(*) FILTER (
+        WHERE c.phone_number IS NULL
+           OR TRIM(c.phone_number) IN ('N/A', 'unknown', '0000000000', '')
+    )                                                       AS orders_with_dirty_phone,
+
+    -- How many orders belong to customers with an unmapped city value
+    COUNT(*) FILTER (
+        WHERE UPPER(TRIM(c.city)) NOT IN (
+            'MANHATTAN', 'NEW YORK', 'NYC', 'NY',
+            'BROOKLYN', 'BKLYN', 'BK',
+            'QUEENS', 'QNS',
+            'BRONX', 'THE BRONX', 'BX',
+            'STATEN ISLAND', 'STATENISLAND', 'SI'
+        )
+    )                                                       AS orders_with_unmapped_city,
+
+    -- How many orders have no special instructions (NULL)
+    COUNT(*) FILTER (
+        WHERE o.special_instructions IS NULL
+    )                                                       AS orders_no_special_instructions
+
+FROM customers c
+INNER JOIN orders o
+    ON c.customer_id = o.customer_id;
+
+-- ------------------------------------------------------------
+-- PROFILE 4: ORDER COUNT BY CITY (RAW vs CLEAN)
+-- Shows how many orders come from each city value
+-- Side by side: the raw dirty value and the cleaned borough name
+-- Useful for seeing how much data would be lost without cleaning
+-- ------------------------------------------------------------
+
+SELECT
+    c.city                  AS city_raw,      -- the original dirty city value
+
+    -- Apply cleaning logic to map city to a standard borough
+    CASE
+        WHEN UPPER(TRIM(c.city)) IN ('MANHATTAN', 'NEW YORK', 'NYC', 'NY')    THEN 'Manhattan'
+        WHEN UPPER(TRIM(c.city)) IN ('BROOKLYN', 'BKLYN', 'BK')               THEN 'Brooklyn'
+        WHEN UPPER(TRIM(c.city)) IN ('QUEENS', 'QNS')                         THEN 'Queens'
+        WHEN UPPER(TRIM(c.city)) IN ('BRONX', 'THE BRONX', 'BX')              THEN 'Bronx'
+        WHEN UPPER(TRIM(c.city)) IN ('STATEN ISLAND', 'STATENISLAND', 'SI')   THEN 'Staten Island'
+        ELSE 'UNMAPPED'                        -- city we could not match to a borough
+    END                     AS city_clean,    -- the standardised borough name
+
+    COUNT(o.order_id)       AS total_orders   -- how many orders came from this city value
+
+FROM customers c
+INNER JOIN orders o
+    ON c.customer_id = o.customer_id
+
+-- GROUP BY both raw and clean city so we see every variation separately
+GROUP BY
+    c.city,
+    CASE
+        WHEN UPPER(TRIM(c.city)) IN ('MANHATTAN', 'NEW YORK', 'NYC', 'NY')    THEN 'Manhattan'
+        WHEN UPPER(TRIM(c.city)) IN ('BROOKLYN', 'BKLYN', 'BK')               THEN 'Brooklyn'
+        WHEN UPPER(TRIM(c.city)) IN ('QUEENS', 'QNS')                         THEN 'Queens'
+        WHEN UPPER(TRIM(c.city)) IN ('BRONX', 'THE BRONX', 'BX')              THEN 'Bronx'
+        WHEN UPPER(TRIM(c.city)) IN ('STATEN ISLAND', 'STATENISLAND', 'SI')   THEN 'Staten Island'
+        ELSE 'UNMAPPED'
+    END
+
+ORDER BY total_orders DESC; -- most common city values at the top
+
+--Relationship between tables--
+Select 'customers' as tables, count(*) as row_count from customers 
+UNION ALL 
+SELECT 'orders',COUNT(*) FROM orders 
+UNION ALL 
+SELECT 'order_items',COUNT(*) FROM order_items
+UNION ALL 
+SELECT 'items', COUNT(*) FROM items 
+UNION ALL 
+SELECT 'merchants',COUNT(*) FROM merchants 
+UNION ALL 
+SELECT 'couriers', COUNT(*) FROM couriers 
+UNION ALL 
+SELECT 'status_events', COUNT(*) FROM status_events 
+ORDER BY row_count DESC; 
+
+--Cities in customers--
+SELECT city, COUNT(*) AS customer_count 
+FROM customers 
+GROUP BY city 
+ORDER BY customer_count desc
+
+--Channel and order count--
+SELECT channel, COUNT(*) AS order_count 
+FROM orders 
+GROUP BY channel 
+ORDER BY order_count desc 
+limit 10; 
+
+--NULL check customers--
+SELECT 
+ SUM(CASE WHEN first_name IS NULL OR TRIM(first_name) = '' THEN 1 ELSE 0 END) AS  null_first_name, 
+ SUM(CASE WHEN last_name IS NULL OR TRIM(last_name) = '' THEN 1 ELSE 0 END) AS  null_last_name, 
+ SUM(CASE WHEN email IS NULL OR TRIM(email) = '' THEN 1 ELSE 0 END) AS null_email,  SUM(CASE WHEN phone_number IS NULL OR TRIM(phone_number) = '' THEN 1 ELSE 0  END) AS null_phone 
+FROM customers; 
+
+
+--Orders with 2 occurances--
+ SELECT
+    order_id,
+    LOWER(TRIM(status))   AS status,
+    COUNT(*)              AS times_recorded,
+    MIN(event_ts)         AS first_occurrence,
+    MAX(event_ts)         AS last_occurrence
+FROM status_events
+GROUP BY order_id, LOWER(TRIM(status))
+HAVING COUNT(*) > 1
+ORDER BY times_recorded DESC;
