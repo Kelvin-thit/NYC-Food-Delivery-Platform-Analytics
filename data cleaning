@@ -1,0 +1,107 @@
+-- 1: Email cleaning
+-- TRIM removes spaces, LOWER normalises case, NULLIF catches empty strings
+SELECT
+    email  AS email_raw,
+    NULLIF(LOWER(TRIM(email)), '') AS email_clean
+FROM customers;
+
+--2: Channel cleaning--
+SELECT
+    channel   AS channel_raw,
+    LOWER(TRIM(channel))   AS channel_clean
+FROM orders;
+
+--3:Date Standardization--
+SELECT
+    order_id,
+    order_ts,
+    order_ts::DATE AS order_date,
+     DATE_TRUNC('month', order_ts)::DATE AS order_month_start,
+    DATE_TRUNC('year',  order_ts)::DATE AS order_year_start,
+    DATE_TRUNC('day',   order_ts)::DATE AS order_day_start
+FROM orders;
+
+--4: NULL and Placeholder Handling--
+SELECT
+    phone_number AS phone_raw,
+    CASE
+        -- Step 1: catch all known sentinel and placeholder values first
+        WHEN phone_number IS NULL  THEN NULL
+        WHEN TRIM(phone_number) IN (
+            'N/A', 'unknown', '0000000000', ''
+        )    THEN NULL
+        -- Step 2: strip dashes and spaces using nested REPLACE
+        -- Each REPLACE removes one specific character
+        ELSE
+            REPLACE(
+            REPLACE(
+            REPLACE(
+            REPLACE(
+            REPLACE(
+                phone_number,
+            '-', ''),   
+            ' ', ''),   
+            '(', ''),  
+            ')', ''),   
+            '.', '')    
+    END   AS phone_clean
+FROM customers;
+
+--5:Email NULL handling--
+SELECT
+    email  AS email_raw,
+    NULLIF(LOWER(TRIM(email)), '')  AS email_clean
+FROM customers;
+
+-- 6: City standardization for customers and merchants tables
+-- UPPER(TRIM()) pre-cleans inside each WHEN so one condition handles
+-- all case and whitespace variations: 'queens', 'QUEENS', ' Queens'
+SELECT
+    city AS city_raw,
+    CASE
+        WHEN UPPER(TRIM(city)) IN (
+            'MANHATTAN', 'NEW YORK', 'NYC', 'NY'
+        ) THEN 'Manhattan'
+        WHEN UPPER(TRIM(city)) IN (
+            'BROOKLYN', 'BKLYN', 'BK'
+        ) THEN 'Brooklyn'
+        WHEN UPPER(TRIM(city)) IN (
+            'QUEENS', 'QNS'
+        ) THEN 'Queens'
+        WHEN UPPER(TRIM(city)) IN (
+            'BRONX', 'THE BRONX', 'BX'
+        ) THEN 'Bronx'
+        WHEN UPPER(TRIM(city)) IN (
+            'STATEN ISLAND', 'STATENISLAND', 'SI'
+        ) THEN 'Staten Island'
+        -- Anything unrecognised becomes NULL not silently passed through
+        ELSE NULL
+    END  AS city_clean
+ from customers
+
+--Fixing orders with two occurances--
+ -- Use ROW_NUMBER to rank events per order per status
+-- Keep only the first one 
+WITH ranked_events AS (
+    SELECT
+        event_id,
+        order_id,
+        status,
+        event_ts,
+
+        -- Assign rank 1 to the earliest event for each order+status combo
+        -- Any rank > 1 means it is a duplicate and should be excluded
+        ROW_NUMBER() OVER (
+            PARTITION BY order_id, LOWER(TRIM(status))
+            ORDER BY event_ts ASC       -- keep the earliest timestamp
+        ) AS rn
+
+    FROM status_events
+)
+SELECT
+    event_id,
+    order_id,
+    status,
+    event_ts
+FROM ranked_events
+WHERE rn = 1;
